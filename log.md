@@ -2,6 +2,16 @@
 
 **Freecodecamp challenges completed:** 123 / 1409
 
+### Day 003: January 04, 2019
+
+**Today's Progress:** Completed Applied Accessibility and  of Responsive Web Design Certification on #freecodecamp. 
+In total 22 challenges completed.
+
+**Thoughts:** "Applied Accessibility" is quite boring. 
+
+**Link to work:** 
+[Applied Accessibility](https://learn.freecodecamp.org/responsive-web-design/applied-accessibility/)
+
 ### Day 002: January 05, 2019
 
 **Today's Progress:** Still on Responsive Web Design Certification on #freecodecamp. Completed Basic CSS and Applied Visual Design. In total 88 challenges completed.
