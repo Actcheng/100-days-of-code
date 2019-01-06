@@ -6,12 +6,12 @@
 
 **Today's Progress:** Finished Applied Accessibility, Responsive Web Design, CSS Flexbox and CSS Grid challenges of Responsive Web Design Certification on #freecodecamp. In total 65 challenges completed.
 
-**Thoughts:** "Applied Accessibility" is quite boring. Media query seems convenient to be used. There are quite a lot to remember for CSS flexbox and grid. CSS grid seems to be widely used in many websites!
+**Thoughts:** "Applied Accessibility" is quite boring. Media query seems convenient to be used. There are quite a lot to remember for CSS flexbox and grid. CSS grid seems to be widely used in many websites! Will start doing my first web project tomorrow!
 
 **Link to work:** 
 [Applied Accessibility](https://learn.freecodecamp.org/responsive-web-design/applied-accessibility/), 
 [Responsive Web Design](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-principles/), 
-[CSS Flexbox](https://learn.freecodecamp.org/responsive-web-design/css-flexbox/)
+[CSS Flexbox](https://learn.freecodecamp.org/responsive-web-design/css-flexbox/),
 [CSS Grid](https://learn.freecodecamp.org/responsive-web-design/css-grid)
 
 ### Day 002: January 05, 2019
