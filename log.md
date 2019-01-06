@@ -16,9 +16,9 @@
 
 **Link to work:** 
 
-[Basic CSS] (https://learn.freecodecamp.org/responsive-web-design/basic-css)
+[Basic CSS](https://learn.freecodecamp.org/responsive-web-design/basic-css)
 
-[Applied Visual Design] (https://learn.freecodecamp.org/responsive-web-design/applied-visual-design)
+[Applied Visual Design](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design)
 
 
 **Freecodecamp challenges completed:** 123 / 1409
