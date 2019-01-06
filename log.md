@@ -1,16 +1,18 @@
 # 100 Days Of Code - Log
 
-**Freecodecamp challenges completed:** 123 / 1409
+**Freecodecamp challenges completed:** 188 / 1409
 
-### Day 003: January 04, 2019
+### Day 003: January 06, 2019
 
-**Today's Progress:** Completed Applied Accessibility and  of Responsive Web Design Certification on #freecodecamp. 
-In total 22 challenges completed.
+**Today's Progress:** Finished Applied Accessibility, Responsive Web Design, CSS Flexbox and CSS Grid challenges of Responsive Web Design Certification on #freecodecamp. In total 65 challenges completed.
 
-**Thoughts:** "Applied Accessibility" is quite boring. 
+**Thoughts:** "Applied Accessibility" is quite boring. Media query seems convenient to be used. There are quite a lot to remember for CSS flexbox and grid. CSS grid seems to be widely used in many websites!
 
 **Link to work:** 
-[Applied Accessibility](https://learn.freecodecamp.org/responsive-web-design/applied-accessibility/)
+[Applied Accessibility](https://learn.freecodecamp.org/responsive-web-design/applied-accessibility/), 
+[Responsive Web Design](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-principles/), 
+[CSS Flexbox](https://learn.freecodecamp.org/responsive-web-design/css-flexbox/)
+[CSS Grid](https://learn.freecodecamp.org/responsive-web-design/css-grid)
 
 ### Day 002: January 05, 2019
 
