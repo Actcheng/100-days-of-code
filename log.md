@@ -19,9 +19,7 @@ In total 22 challenges completed.
 **Thoughts:** First time to work on CSS. Didn't know that it is so powerful! Can make simple shapes and animations with simple codes. Good that I didn't skip this certification. I knew fewer than what I expected.
 
 **Link to work:** 
-
-[Basic CSS](https://learn.freecodecamp.org/responsive-web-design/basic-css)
-
+[Basic CSS](https://learn.freecodecamp.org/responsive-web-design/basic-css),
 [Applied Visual Design](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design)
 
 ### Day 001: January 04, 2019
