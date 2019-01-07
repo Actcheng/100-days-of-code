@@ -1,6 +1,15 @@
 # 100 Days Of Code - Log
 
-**Freecodecamp challenges completed:** 188 / 1409
+**Freecodecamp challenges completed:** 189 / 1409
+
+### Day 004: January 07, 2019
+
+**Today's Progress:** I made a tribute page for Responsive Web Design Certification on #freecodecamp! 
+
+**Thoughts:** Didn't know that life becomes much easier with CodePen! Challenge completed within an hour. Tried a few CSS options to make the page more delicate, but it is quite hard to design a nice page in a really short time.
+
+**Link to work:** 
+[Tribute page](https://codepen.io/actcheng/full/VqxVLv)
 
 ### Day 003: January 06, 2019
 
