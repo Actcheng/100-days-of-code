@@ -2,6 +2,15 @@
 
 **Freecodecamp challenges completed:** 189 / 1409
 
+### Day 005: January 08, 2019
+
+**Today's Progress:** Made a survey form for Responsive Web Design Certification on #freecodecamp! 
+
+**Thoughts:** This challenge helped me understanding the forms. I didn't notice the difference between "name" and "value" before. The hardest thing is not passing the tests, but to make the survey forms look nice. The HTML of the sample page taught me a lot.
+
+**Link to work:** 
+[Survey Form](https://codepen.io/actcheng/full/roKKPv)
+
 ### Day 004: January 07, 2019
 
 **Today's Progress:** I made a tribute page for Responsive Web Design Certification on #freecodecamp! 
