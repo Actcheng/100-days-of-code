@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-**Freecodecamp challenges completed:** 189 / 1409
+**Freecodecamp challenges completed:** 190 / 1409
 
 ### Day 005: January 08, 2019
 
