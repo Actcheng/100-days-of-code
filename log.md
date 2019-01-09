@@ -2,6 +2,15 @@
 
 **Freecodecamp challenges completed:** 190 / 1409
 
+### Day 006: January 09, 2019
+
+**Today's Progress:** Working on the product landing page for Responsive Web Design Certification on #freecodecamp. Got 14/16 tests passed.  
+
+**Thoughts:** The nav-bar took me quite a lot of time to fix. I started to write the css script for each element I add to the page, instead of writing them after getting all the elements.
+
+**Link to work:** 
+[Product landing page](https://codepen.io/actcheng/full/YdvRJG)
+
 ### Day 005: January 08, 2019
 
 **Today's Progress:** Made a survey form for Responsive Web Design Certification on #freecodecamp! 
