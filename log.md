@@ -4,9 +4,9 @@
 
 ### Day 008: January 11, 2019
 
-**Today's Progress:** Completed the  Technical Documentation Page for Responsive Web Design Certification on #freecodecamp. 
+**Today's Progress:** Completed the Technical Documentation Page for Responsive Web Design Certification on #freecodecamp. 
 
-**Thoughts:** So happy to make a left side navbar. A bit waste of time to copy and paste the documentation content and put the p and code wrappings by hand.
+**Thoughts:** So happy to make a left side navbar. Used the content for python standard library. A bit waste of time to copy and paste the documentation content and put the p and code wrappings by hand.
   
 **Link to work:** 
 [Technical Documentation Page](https://codepen.io/actcheng/full/vvzdqb)
