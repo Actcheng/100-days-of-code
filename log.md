@@ -1,6 +1,24 @@
 # 100 Days Of Code - Log
 
-**Freecodecamp challenges completed:** 190 / 1409
+**Freecodecamp challenges completed:** 193 / 1409
+
+### Day 008: January 11, 2019
+
+**Today's Progress:** Completed the  Technical Documentation Page for Responsive Web Design Certification on #freecodecamp. 
+
+**Thoughts:** So happy to make a left side navbar. A bit waste of time to copy and paste the documentation content and put <p><code> etc.
+  
+**Link to work:** 
+[Technical Documentation Page](https://codepen.io/actcheng/full/vvzdqb)
+
+### Day 007: January 10, 2019
+
+**Today's Progress:**  Completed the product landing page and started working on Technical Documentation Page for Responsive Web Design Certification on #freecodecamp. Got 7/16 tests passed.  
+
+**Thoughts:** Took me some time to realize that "name" attribute is essential for form submission. Should never miss this anymore.
+
+**Link to work:** 
+[Product landing page](https://codepen.io/actcheng/full/YdvRJG)
 
 ### Day 006: January 09, 2019
 
