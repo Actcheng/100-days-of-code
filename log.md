@@ -2,6 +2,15 @@
 
 **Freecodecamp challenges completed:** 193 / 1409
 
+### Day 009: January 12, 2019
+
+**Today's Progress:** Working on   for Responsive Web Design Certification on #freecodecamp. Also started playing with Basic JavaScript on freecodecamp at my lunchtime.
+
+**Thoughts:** The basic JS syntax is quite similar to Python. 
+  
+**Link to work:** 
+[Basic JavaScript](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/)
+
 ### Day 008: January 11, 2019
 
 **Today's Progress:** Completed the Technical Documentation Page for Responsive Web Design Certification on #freecodecamp. 
