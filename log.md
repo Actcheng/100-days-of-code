@@ -1,15 +1,16 @@
 # 100 Days Of Code - Log
 
-**Freecodecamp challenges completed:** 193 / 1409
+**Freecodecamp challenges completed:** 243 / 1409
 
 ### Day 009: January 12, 2019
 
-**Today's Progress:** Working on   for Responsive Web Design Certification on #freecodecamp. Also started playing with Basic JavaScript on freecodecamp at my lunchtime.
+**Today's Progress:** Working on Personal Profolio Webpage for Responsive Web Design Certification on #freecodecamp. (10/12 tests passed) Also started playing with Basic JavaScript on freecodecamp at my lunchtime (50 challenges completed). 
 
-**Thoughts:** The basic JS syntax is quite similar to Python. 
+**Thoughts:** Most of the requirements for the webpage are similar to the previous projects. Want to make use of CSS Grid to make the profolio although it is beyond the requirements. The basic JS syntax is quite similar to Python. 
   
 **Link to work:** 
 [Basic JavaScript](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/)
+[Personal Profolio Webpage](https://codepen.io/actcheng/full/PXygxK)
 
 ### Day 008: January 11, 2019
 
