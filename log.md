@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log
 
-**Freecodecamp challenges completed:** 243 / 1409
+**Freecodecamp challenges completed:** 265 / 1409
+
+### Day 010: January 13, 2019
+
+**Today's Progress:** Completed the Personal Profolio Webpage and earned my first certificate in #freecodecamp! Also completed 22 challenges in Basic JS.
+
+**Thoughts:** Thought that I need to spend much time to make the CSS grid, but it turned out to be quite easy. Can't believe I can earn the certificate in just 10 days. I have learnt HTML long ago, and thought that I should skip this. Fortunately I didn't skip it. Have learnt much about CSS from this certification, and I can't imagine that I can build five small projects in just 10 days. Looking forward to learn more in the next cerfication.
+  
+**Link to work:** 
+[Basic JavaScript](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/)
+[Personal Profolio Webpage](https://codepen.io/actcheng/full/PXygxK)
 
 ### Day 009: January 12, 2019
 
