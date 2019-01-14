@@ -2,6 +2,15 @@
 
 **Freecodecamp challenges completed:** 265 / 1409
 
+### Day 011: January 14, 2019
+
+**Today's Progress:** Completed the Basic JavaSctipt for Javascript Algorithms And Data Structures Certification on #freecodecamp. 36 challenges done.
+
+**Thoughts:** A very long section for refreshing the concepts for basic JS. 
+  
+**Link to work:** 
+[Basic JavaScript](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/)
+
 ### Day 010: January 13, 2019
 
 **Today's Progress:** Completed the Personal Profolio Webpage and earned my first certificate in #freecodecamp! Also completed 22 challenges in Basic JS.
