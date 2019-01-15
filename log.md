@@ -1,12 +1,12 @@
 # 100 Days Of Code - Log
 
-**Freecodecamp challenges completed:** 301 / 1409
+**Freecodecamp challenges completed:** 340 / 1409
 
 ### Day 012: January 15, 2019
 
-**Today's Progress:** Completed ES6 for Javascript Algorithms And Data Structures Certification on #freecodecamp.   challenges done.
+**Today's Progress:** Completed ES6 for Javascript Algorithms And Data Structures Certification on #freecodecamp. 39 challenges done.
 
-**Thoughts:** 
+**Thoughts:** Quite a lot to remember, not sure if I will remember how to use them in practice.
   
 **Link to work:** 
 [ES6](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/)
