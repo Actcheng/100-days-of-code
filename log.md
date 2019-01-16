@@ -9,10 +9,8 @@
 **Thoughts:** 
   
 **Link to work:**
-[Regular Expression](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/regular-expressions/)
-
-[Debugging](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/debugging/)
-
+[Regular Expression](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/regular-expressions/), 
+[Debugging](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/debugging/), 
 [Basic Data Structure](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures/)
 
 ### Day 012: January 15, 2019
