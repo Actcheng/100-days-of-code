@@ -2,7 +2,7 @@
 
 **Freecodecamp challenges completed:** 340 / 1409
 
-### Day 013: January 14, 2019
+### Day 013: January 16, 2019
 
 **Today's Progress:** Completed Regular Expression for Javascript Algorithms And Data Structures Certification on #freecodecamp. 19 challenges done.
 
