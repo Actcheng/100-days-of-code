@@ -1,12 +1,22 @@
 # 100 Days Of Code - Log
 
-**Freecodecamp challenges completed:** 380 / 1409
+**Freecodecamp challenges completed:** 407 / 1409
+
+### Day 014: January 17, 2019
+
+**Today's Progress:** Completed Basic Data Structure and Basic Algorithm Scripting for Javascript Algorithms And Data Structures Certification on #freecodecamp. 27 challenges done.
+
+**Thoughts:**  Both are quite easy, but helped me to get familiar with the syntax. The last few challenges need some thinking though.
+  
+**Link to work:**
+[Basic Data Structure](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures/),
+(Basic Algorithm Scripting)https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting
 
 ### Day 013: January 16, 2019
 
 **Today's Progress:** Completed Regular Expression and Debugging for Javascript Algorithms And Data Structures Certification on #freecodecamp. Started Basic Data Structure. 40 challenges done.
 
-**Thoughts:** 
+**Thoughts:**  Debugging is what I am doing EVERYDAY.
   
 **Link to work:**
 [Regular Expression](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/regular-expressions/), 
