@@ -10,7 +10,7 @@
   
 **Link to work:**
 [Basic Data Structure](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures/),
-(Basic Algorithm Scripting)https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting
+[Basic Algorithm Scripting](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting)
 
 ### Day 013: January 16, 2019
 
