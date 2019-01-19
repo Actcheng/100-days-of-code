@@ -1,15 +1,24 @@
 # 100 Days Of Code - Log
 
-**Freecodecamp challenges completed:** 440 / 1409
+**Freecodecamp challenges completed:** 456 / 1409
+
+### Day 016: January 19, 2019
+
+**Today's Progress:** Completed Functional Programming for Javascript Algorithms And Data Structures Certification on #freecodecamp. 16 challenges done.
+
+**Thoughts:**  Learn some new functions about array and currying functions. A bit challenging.
+  
+**Link to work:**
+[Functional Programming](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/functional-programming)
 
 ### Day 015: January 18, 2019
 
 **Today's Progress:** Completed Object Oriented Programming for Javascript Algorithms And Data Structures Certification on #freecodecamp. Started Functional Programming. 33 challenges done.
 
-**Thoughts:**  THought I was familiar with OOP but turned out there were something new to learn. I wish I had learnt about functional programming before, so my code would not be in such a mess...
+**Thoughts:**  Thought I was familiar with OOP but turned out there were something new to learn. I wish I had learnt about functional programming before, so my code would not be in such a mess...
   
 **Link to work:**
-[Object Oriented Programming](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/object-oriented-programming/)
+[Object Oriented Programming](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/object-oriented-programming/),
 [Functional Programming](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/functional-programming)
 
 ### Day 014: January 17, 2019
