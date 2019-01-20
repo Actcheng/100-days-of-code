@@ -2,6 +2,15 @@
 
 **Freecodecamp challenges completed:** 456 / 1409
 
+### Day 017: January 20, 2019
+
+**Today's Progress:** Worked on Intermediate Algorithm Scripting for Javascript Algorithms And Data Structures Certification on #freecodecamp. 6 challenges done.
+
+**Thoughts:**  Challenging but inspiring.
+  
+**Link to work:**
+[Intermediate Algorithm Scripting](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting)
+
 ### Day 016: January 19, 2019
 
 **Today's Progress:** Completed Functional Programming for Javascript Algorithms And Data Structures Certification on #freecodecamp. 16 challenges done.
