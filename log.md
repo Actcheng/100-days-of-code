@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log
 
-**Freecodecamp challenges completed:** 470 / 1409
+**Freecodecamp challenges completed:** 481 / 1409
+
+### Day 019: January 22, 2019
+
+**Today's Progress:** Completed Intermediate Algorithm Scripting for Javascript Algorithms And Data Structures Certification on #freecodecamp. Worked on 4 challenges in the certification projects. Total 11 challenges done.
+
+**Thoughts:**  Need revisiting when have time. The projects are kind of easy, only about the medium level in leetcode.
+  
+**Link to work:**
+[Intermediate Algorithm Scripting](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting),
+[JavaScript Algorithms and Data Structures Projects](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects)
 
 ### Day 018: January 21, 2019
 
