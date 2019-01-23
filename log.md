@@ -1,15 +1,16 @@
 # 100 Days Of Code - Log
 
-**Freecodecamp challenges completed:** 483 / 1409
+**Freecodecamp challenges completed:** 514 / 1409
 
 ### Day 020: January 23, 2019
 
-**Today's Progress:** Earned my second certification #freecodecamp: Javascript Algorithms And Data Structures Certification. Total 12 challenges done.
+**Today's Progress:** Earned my second certification #freecodecamp: Javascript Algorithms And Data Structures Certification. Completed Bootstrap for Front End Libraries Certification. Total 31 challenges done.
 
 **Thoughts:**  Can't imagine that I nearly know nothing about html/css/javascript 20 days ago! Wanted to work on the next certification, but I think I should first go back to the data science stuff and complete the RNN course. 
   
 **Link to work:**
-[JavaScript Algorithms and Data Structures Projects](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects)
+[JavaScript Algorithms and Data Structures Projects](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects),
+[Bootstrap](https://learn.freecodecamp.org/front-end-libraries/bootstrap/)
 
 ### Day 019: January 22, 2019
 
