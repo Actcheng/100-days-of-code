@@ -2,6 +2,14 @@
 
 **Freecodecamp challenges completed:** 514 / 1409
 
+### Day 021: January 24, 2019
+
+**Today's Progress:** Working on "Building a recurrent neural network - step by step" Assignment in Sequence Model offered by #deeplearning.ai. 
+
+**Thoughts:** Didn't work on neural work for quite a while, so took me some time to get familiar with it. Not much progress.
+  
+**Link to work:** None
+
 ### Day 020: January 23, 2019
 
 **Today's Progress:** Earned my second certification #freecodecamp: Javascript Algorithms And Data Structures Certification. Completed Bootstrap for Front End Libraries Certification. Total 31 challenges done.
