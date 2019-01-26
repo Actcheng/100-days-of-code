@@ -2,6 +2,22 @@
 
 **Freecodecamp challenges completed:** 514 / 1409
 
+### Day 023: January 26, 2019
+
+**Today's Progress:** Working on Dinosaurus Island in Sequence Model offered by #deeplearning.ai. Attended the "Women in Machine Learning" meetup organized by @__MLT__ 
+
+**Thoughts:** Got stuck at the np.clip part... kind of low-level mistake. My mouse lost battery so I am coding using Mac, on my bed. How tiring it is.
+  
+**Link to work:** None
+
+### Day 022: January 25, 2019
+
+**Today's Progress:** Completed on "Building a recurrent neural network - step by step" Assignment in Sequence Model offered by #deeplearning.ai. 
+
+**Thoughts:** Haven't looked at the backward propagation part yet.
+  
+**Link to work:** None
+
 ### Day 021: January 24, 2019
 
 **Today's Progress:** Working on "Building a recurrent neural network - step by step" Assignment in Sequence Model offered by #deeplearning.ai. 
