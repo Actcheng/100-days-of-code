@@ -2,6 +2,14 @@
 
 **Freecodecamp challenges completed:** 514 / 1409
 
+### Day 024: January 27, 2019
+
+**Today's Progress:** Completed Dinosaurus Island in Sequence Model offered by #deeplearning.ai. 
+
+**Thoughts:** The coursera server seems to got stuck. And I couldn't pass the grader just because I use another equivalent code. It is quite insane.
+  
+**Link to work:** None
+
 ### Day 023: January 26, 2019
 
 **Today's Progress:** Working on Dinosaurus Island in Sequence Model offered by #deeplearning.ai. Attended the "Women in Machine Learning" meetup organized by @__MLT__ 
