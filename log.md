@@ -1,10 +1,10 @@
 # 100 Days Of Code - Log
 
-**Freecodecamp challenges completed:** 514 / 1409
+**Freecodecamp challenges completed:** 520 / 1409
 
 ### Day 024: January 27, 2019
 
-**Today's Progress:** Completed Dinosaurus Island in Sequence Model offered by #deeplearning.ai. 
+**Today's Progress:** Completed Dinosaurus Island in Sequence Model offered by #deeplearning.ai. 6 FCC challenges completed.
 
 **Thoughts:** The coursera server seems to got stuck. And I couldn't pass the grader just because I use another equivalent code. It is quite insane.
   
