@@ -1,6 +1,15 @@
 # 100 Days Of Code - Log
 
-**Freecodecamp challenges completed:** 520 / 1409
+**Freecodecamp challenges completed:** 532 / 1409
+
+### Day 025: January 28, 2019
+
+**Today's Progress:** Completed Jazz improvisation with LSTM in Sequence Model offered by #deeplearning.ai. Also worked on jQuery on #freecodecamp when the model are being trained. 12 FCC challenges completed.
+
+**Thoughts:** The coursera server is slow again. But it's good to have some practice on keras.
+  
+**Link to work:** 
+[jQuery](https://learn.freecodecamp.org/front-end-libraries/jquery)
 
 ### Day 024: January 27, 2019
 
