@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log
 
-**Freecodecamp challenges completed:** 532 / 1409
+**Freecodecamp challenges completed:** 540 / 1409
+
+### Day 026: January 29, 2019
+
+**Today's Progress:** Finished Automated Data Pipelines, Day 1 on #Kaggle. Completed SASSIntermediate Algorithm Scripting for Front End Libraries Certification on #freecodecamp.  8 FCC challenges completed.
+
+**Thoughts:** First time to create a dataset on Kaggle. Thanks to Kaggle, I learnt that there are so many available public datasets. One of the SASS challenge is buggy.
+  
+**Link to work:** 
+[Automated Data Pipelines Day 1](https://www.kaggle.com/ctanna/data-pipelines-day-1-data-versioning-datasets-f?scriptVersionId=10038274), 
+[SASS](https://learn.freecodecamp.org/front-end-libraries/sass)
 
 ### Day 025: January 28, 2019
 
