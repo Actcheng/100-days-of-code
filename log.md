@@ -4,7 +4,7 @@
 
 ### Day 026: January 29, 2019
 
-**Today's Progress:** Finished Automated Data Pipelines, Day 1 on #Kaggle. Completed SASSIntermediate Algorithm Scripting for Front End Libraries Certification on #freecodecamp.  8 FCC challenges completed.
+**Today's Progress:** Finished Automated Data Pipelines, Day 1 on #Kaggle. Completed SASS for Front End Libraries Certification on #freecodecamp.  8 FCC challenges completed.
 
 **Thoughts:** First time to create a dataset on Kaggle. Thanks to Kaggle, I learnt that there are so many available public datasets. One of the SASS challenge is buggy.
   
