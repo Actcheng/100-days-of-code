@@ -1,6 +1,15 @@
 # 100 Days Of Code - Log
 
-**Freecodecamp challenges completed:** 540 / 1409
+**Freecodecamp challenges completed:** 575 / 1409
+
+### Day 027: January 30, 2019
+
+**Today's Progress:** Finished Automated Data Pipelines, Day 2 on #Kaggle. Working on React for Front End Libraries Certification on #freecodecamp.  35 FCC challenges completed.
+
+**Thoughts:** Didn't worked on the data validation on Kaggle because there are not much instructions. 
+  
+**Link to work:** 
+[React](https://learn.freecodecamp.org/front-end-libraries/react)
 
 ### Day 026: January 29, 2019
 
