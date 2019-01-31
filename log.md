@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log
 
-**Freecodecamp challenges completed:** 575 / 1409
+**Freecodecamp challenges completed:** 600 / 1409
+
+### Day 028: January 31, 2019
+
+**Today's Progress:** Finished on React for Front End Libraries Certification on #freecodecamp. Started Redux. 25 FCC challenges completed.
+
+**Thoughts:** I am now confused by how I can combine different scripts together to build a webpage: CSS, ACSS, Bootstrap and React.
+  
+**Link to work:** 
+[React](https://learn.freecodecamp.org/front-end-libraries/react)
+[Redux](https://learn.freecodecamp.org/front-end-libraries/redux)
 
 ### Day 027: January 30, 2019
 
