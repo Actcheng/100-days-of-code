@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log
 
-**Freecodecamp challenges completed:** 600 / 1409
+**Freecodecamp challenges completed:** 610 / 1409
+
+### Day 029: February 1, 2019
+
+**Today's Progress:** Finished on Redux for Front End Libraries Certification on #freecodecamp. Started React and Redux. 10 FCC challenges completed.
+
+**Thoughts:** Always have troubles on syntax...
+  
+**Link to work:** 
+[Redux](https://learn.freecodecamp.org/front-end-libraries/redux)
+[React and Redux](https://learn.freecodecamp.org/front-end-libraries/react-and-redux)
 
 ### Day 028: January 31, 2019
 
