@@ -2,6 +2,16 @@
 
 **Freecodecamp challenges completed:** 610 / 1409
 
+### Day 030: February 2, 2019
+
+**Today's Progress:** Finished on React and Reduxfor Front End Libraries Certification on #freecodecamp. 6 FCC challenges completed. 
+
+**Thoughts:** Will start my first project with JS tommorow, but I am not sure how I should do it. Do other people work on the project on CodePen or using other tools? I feel that it would be better if I can learn how to set up React/Redux instead of using codepen.
+  
+**Link to work:** 
+[Redux](https://learn.freecodecamp.org/front-end-libraries/redux)
+[React and Redux](https://learn.freecodecamp.org/front-end-libraries/react-and-redux)
+
 ### Day 029: February 1, 2019
 
 **Today's Progress:** Finished on Redux for Front End Libraries Certification on #freecodecamp. Started React and Redux. 10 FCC challenges completed.
