@@ -1,6 +1,15 @@
 # 100 Days Of Code - Log
 
-**Freecodecamp challenges completed:** 610 / 1409
+**Freecodecamp challenges completed:** 616 / 1409
+
+### Day 031: February 3, 2019
+
+**Today's Progress:** Set up a repo for projects as github pages. Installed node.js and trying to set up the environment of developing React app on GitHub pages.
+
+**Thoughts:** A bit suprised that I can hold unlimited projects on gh-pages. Quite time consuming to set up the environment before really working on the scripts, but I think I can learn more than using codepen.
+  
+**Resources**
+[React app for gh-pages](https://codeburst.io/deploy-react-to-github-pages-to-create-an-amazing-website-42d8b09cd4d)
 
 ### Day 030: February 2, 2019
 
