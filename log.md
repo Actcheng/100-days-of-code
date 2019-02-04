@@ -4,7 +4,7 @@
 
 ## Day 032: February 4, 2019
 
-**Today's Progress:** Spent two hours to make a Randow Quote Machine for Front End Libraries Certification on #freecodecamp. Watched a video of how to combine HTML, CSS and JavaScript. 
+**Today's Progress:** Spent two hours to make a Random Quote Machine for Front End Libraries Certification on #freecodecamp. Watched a video of how to combine HTML, CSS and JavaScript. 
 
 **Thoughts:** The video is really inspiring. I realized that I have almost forgotten about how to use different libraries. Want to add more features to the Random Quote Machine although it has passed all tests.
   
