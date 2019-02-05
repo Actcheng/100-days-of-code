@@ -2,6 +2,15 @@
 
 **Freecodecamp challenges completed:** 617 / 1409
 
+## Day 033: February 5, 2019
+
+**Today's Progress:** Rewriting the js of Random Quote Machine using jQuery, and added some animating effects.
+
+**Thoughts:** Took me more than half an hour to learn how to include jQuery in the js file. But once I added all essential libraries, things became super easy!
+  
+**Link to work:** 
+[Random Quote Machine](https://actcheng.github.io/fccprojects/randomQuoteMachine/index.html)
+
 ## Day 032: February 4, 2019
 
 **Today's Progress:** Spent two hours to make a Random Quote Machine for Front End Libraries Certification on #freecodecamp. Watched a video of how to combine HTML, CSS and JavaScript. 
