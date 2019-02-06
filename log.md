@@ -6,7 +6,7 @@
 
 **Today's Progress:** First time creating React app using create-react-app and deploying it on GitHub Pages.
 
-**Thoughts:** Got stuck on creating the app: git was not installed. Got confused by whether a empty repo is required - it seems that iempy repo is not required, but it should be better to make a new repo for each project. 
+**Thoughts:** Got stuck on creating the app: git was not installed. Got confused by whether a empty repo is required - it seems that empty repo is not required, but it should be better to make a new repo for each project. 
   
 **Link to work:** 
 [Markdown Previewer](https://actcheng.github.io/markdown-previewer/)
