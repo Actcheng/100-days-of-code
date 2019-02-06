@@ -2,6 +2,18 @@
 
 **Freecodecamp challenges completed:** 617 / 1409
 
+### Day 034: February 6, 2019
+
+**Today's Progress:** First time creating React app using create-react-app and deploying it on GitHub Pages.
+
+**Thoughts:** Got stuck on creating the app: git was not installed. Got confused by whether a empty repo is required - it seems that iempy repo is not required, but it should be better to make a new repo for each project. 
+  
+**Link to work:** 
+[Markdown Previewer](https://actcheng.github.io/markdown-previewer/)
+
+**Resources**
+[Deploying a React App (created using create-react-app) to GitHub Pages ](https://github.com/gitname/react-gh-pages)
+
 ### Day 033: February 5, 2019
 
 **Today's Progress:** Rewriting the js of Random Quote Machine using jQuery, and added some animating effects.
