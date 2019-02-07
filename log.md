@@ -2,7 +2,7 @@
 
 **Freecodecamp challenges completed:** 617 / 1409
 
-### Day 035: February 6, 2019
+### Day 035: February 7, 2019
 
 **Today's Progress:** Wrote a blog post to remind myself what I have learnt from the random quote machine project. Started my first React project. Spent 1.5 hrs to update text when input in textbox changes. (4 tests passed)
 
