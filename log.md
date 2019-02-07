@@ -2,6 +2,16 @@
 
 **Freecodecamp challenges completed:** 617 / 1409
 
+### Day 035: February 6, 2019
+
+**Today's Progress:** Wrote a blog post to remind myself what I have learnt from the random quote machine project. Started my first React project. Spent 1.5 hrs to update text when input in textbox changes. (4 tests passed)
+
+**Thoughts:** Spent much time to refresh the basics of React. Practice is really very important. Now I know why Redux is important, but seems that I can hardly use it on gh-pages.
+  
+**Link to work:** 
+[Markdown Previewer](https://actcheng.github.io/markdown-previewer/)
+[Blog post](https://studycode381055605.wordpress.com/2019/02/07/my-first-js-project-random-quote-machine/)
+
 ### Day 034: February 6, 2019
 
 **Today's Progress:** First time creating React app using create-react-app and deploying it on GitHub Pages.
