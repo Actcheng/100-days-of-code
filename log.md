@@ -2,6 +2,15 @@
 
 **Freecodecamp challenges completed:** 617 / 1409
 
+### Day 036: February 8, 2019
+
+**Today's Progress:** Spent an hour on the layout of the markdown previewer. Used css grid to rearrange the layout corresponding to media query.
+
+**Thoughts:** Want to rush on my own research, so didn't have much time on the project today. 
+  
+**Link to work:** 
+[Markdown Previewer](https://actcheng.github.io/markdown-previewer/)
+
 ### Day 035: February 7, 2019
 
 **Today's Progress:** Wrote a blog post to remind myself what I have learnt from the random quote machine project. Started my first React project. Spent 1.5 hrs to update text when input in textbox changes. (4 tests passed)
