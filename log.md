@@ -1,6 +1,15 @@
 # 100 Days Of Code - Log
 
-**Freecodecamp challenges completed:** 617 / 1409
+**Freecodecamp challenges completed:** 618 / 1409
+
+### Day 037: February 9, 2019
+
+**Today's Progress:** Completed the markdown previewer, my first React project! 
+
+**Thoughts:** Turn out it is not difficult, just using the "marked" library - took some time to learn how to import library though.
+  
+**Link to work:** 
+[Markdown Previewer](https://actcheng.github.io/markdown-previewer/)
 
 ### Day 036: February 8, 2019
 
