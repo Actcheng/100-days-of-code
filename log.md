@@ -2,6 +2,15 @@
 
 **Freecodecamp challenges completed:** 618 / 1409
 
+### Day 038: February 10, 2019
+
+**Today's Progress:** Created a new react app for the drum machine. Made the layout of the project.
+
+**Thoughts:** My computer was very slow, so it took much time even to create the react app.
+  
+**Link to work:** 
+[Drum machine](https://actcheng.github.io/drum-machine/)
+
 ### Day 037: February 9, 2019
 
 **Today's Progress:** Completed the markdown previewer, my first React project! 
