@@ -2,6 +2,15 @@
 
 **Freecodecamp challenges completed:** 618 / 1409
 
+### Day 039: February 11, 2019
+
+**Today's Progress:** Added eventListener for key press. But cannot toggle a parent function when clicking a child component, but I con't want to copy and paste the function.
+
+**Thoughts:** Quite bothered by the parent-child thing in react.
+  
+**Link to work:** 
+[Drum machine](https://actcheng.github.io/drum-machine/)
+
 ### Day 038: February 10, 2019
 
 **Today's Progress:** Created a new react app for the drum machine. Made the layout of the project.
