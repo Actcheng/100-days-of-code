@@ -2,6 +2,16 @@
 
 **Freecodecamp challenges completed:** 618 / 1409
 
+### Day 040: February 12, 2019
+
+**Today's Progress:** Finished the drum machine on #freeCodeCamp. 
+
+**Thoughts:** Got stuck when handling the parent-child relation... And the relative links suck. Won't spend more time to make it more impressive - I am more interested in the next two projects!
+
+  
+**Link to work:** 
+[Drum machine](https://actcheng.github.io/drum-machine/)
+
 ### Day 039: February 11, 2019
 
 **Today's Progress:** Added eventListener for key press. But cannot toggle a parent function when clicking a child component, but I con't want to copy and paste the function.
