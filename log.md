@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log
 
-**Freecodecamp challenges completed:** 618 / 1409
+**Freecodecamp challenges completed:** 619 / 1409
+
+### Day 041: February 13, 2019
+
+**Today's Progress:** Started making JS calculator for #freeCodeCamp. Also added a few event listeners.
+
+**Thoughts:** Used less than an hour to fix the layout :) But the "equal" got stuck. 
+
+**Link to work:** 
+[JabaScript calculator](https://actcheng.github.io/js-calculator/)
+
 
 ### Day 040: February 12, 2019
 
