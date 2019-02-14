@@ -2,15 +2,23 @@
 
 **Freecodecamp challenges completed:** 619 / 1409
 
+### Day 042: February 14, 2019
+
+**Today's Progress:** JS Calculator: prevent double entry of decimal poitns and operator. Added an "expression" panel. 11/16 tests passed.
+
+**Thoughts:** Not familiar with regex...
+
+**Link to work:** 
+[JabaScript calculator](https://actcheng.github.io/js-calculator/)
+
 ### Day 041: February 13, 2019
 
-**Today's Progress:** Started making JS calculator for #freeCodeCamp. Also added a few event listeners.
+**Today's Progress:** Started making JS calculator for #freeCodeCamp. Also added a few event listeners. 10/16 tests passed.
 
 **Thoughts:** Used less than an hour to fix the layout :) But the "equal" got stuck. 
 
 **Link to work:** 
 [JabaScript calculator](https://actcheng.github.io/js-calculator/)
-
 
 ### Day 040: February 12, 2019
 
