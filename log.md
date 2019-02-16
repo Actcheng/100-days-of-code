@@ -2,6 +2,15 @@
 
 **Freecodecamp challenges completed:** 620 / 1409
 
+### Day 044: February 16, 2019
+
+**Today's Progress:** JS Calculator: rewriting, but in a mess
+
+**Thoughts:** Trying to make the calculator looks like the M$ one, but then I got confused...
+
+**Link to work:** 
+[JavaScript calculator](https://actcheng.github.io/js-calculator/)
+
 ### Day 043: February 15, 2019
 
 **Today's Progress:** JS Calculator: All tests passed! 
@@ -9,7 +18,7 @@
 **Thoughts:** Want to add a few more features to the calculator
 
 **Link to work:** 
-[JabaScript calculator](https://actcheng.github.io/js-calculator/)
+[JavaScript calculator](https://actcheng.github.io/js-calculator/)
 
 ### Day 042: February 14, 2019
 
@@ -18,7 +27,7 @@
 **Thoughts:** Not familiar with regex...
 
 **Link to work:** 
-[JabaScript calculator](https://actcheng.github.io/js-calculator/)
+[JavaScript calculator](https://actcheng.github.io/js-calculator/)
 
 ### Day 041: February 13, 2019
 
@@ -27,7 +36,7 @@
 **Thoughts:** Used less than an hour to fix the layout :) But the "equal" got stuck. 
 
 **Link to work:** 
-[JabaScript calculator](https://actcheng.github.io/js-calculator/)
+[JavaScript calculator](https://actcheng.github.io/js-calculator/)
 
 ### Day 040: February 12, 2019
 
