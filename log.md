@@ -2,6 +2,15 @@
 
 **Freecodecamp challenges completed:** 620 / 1409
 
+### Day 045: February 17, 2019
+
+**Today's Progress:** JS Calculator: Now it looks like the one in M$. Wanted to add the functions for scientific calculator, but better work later.
+
+**Thoughts:** It is important to rethink about the states to be used. Now the code looks much organized.
+
+**Link to work:** 
+[JavaScript calculator](https://actcheng.github.io/js-calculator/)
+
 ### Day 044: February 16, 2019
 
 **Today's Progress:** JS Calculator: rewriting, but in a mess
