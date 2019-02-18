@@ -2,6 +2,15 @@
 
 **Freecodecamp challenges completed:** 620 / 1409
 
+### Day 046: February 18, 2019
+
+**Today's Progress:** Started the final project for Front End Library Certification on #freeCodeCamp: Making a pomodoro clock. Spent an hour to create the layout and the structure for javascript.
+
+**Thoughts:** This time I decide not to use React, but jQuery to build the project. I am thinking how to apply bootstrap and sass in this project. 
+
+**Link to work:** 
+[JavaScript calculator](https://actcheng.github.io/pomodoro-clock/index.html)
+
 ### Day 045: February 17, 2019
 
 **Today's Progress:** JS Calculator: Now it looks like the one in M$. Wanted to add the functions for scientific calculator, but better work later.
