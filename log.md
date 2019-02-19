@@ -1,6 +1,15 @@
 # 100 Days Of Code - Log
 
-**Freecodecamp challenges completed:** 620 / 1409
+**Freecodecamp challenges completed:** 621 / 1409
+
+### Day 047: February 19, 2019
+
+**Today's Progress:** Pomodoro clock: All tests passed! Earned Front End Library Certification
+
+**Thoughts:** Spent about 2 hours on the script. Turn out the count down is pretty easy. Want to add more features to the clock.
+
+**Link to work:** 
+[Pomodoro Clock](https://actcheng.github.io/pomodoro-clock/index.html)
 
 ### Day 046: February 18, 2019
 
@@ -9,7 +18,7 @@
 **Thoughts:** This time I decide not to use React, but jQuery to build the project. I am thinking how to apply bootstrap and sass in this project. 
 
 **Link to work:** 
-[JavaScript calculator](https://actcheng.github.io/pomodoro-clock/index.html)
+[Pomodoro Clock](https://actcheng.github.io/pomodoro-clock/index.html)
 
 ### Day 045: February 17, 2019
 
