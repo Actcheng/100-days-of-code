@@ -1,6 +1,17 @@
 # 100 Days Of Code - Log
 
-**Freecodecamp challenges completed:** 621 / 1409
+**Freecodecamp challenges completed:** 660 / 1409
+
+### Day 048: February 20, 2019
+
+**Today's Progress:** Finished challenges of Data Visualization Certification on #freecodecamp. 48 FCC challenges completed. Rewritten and added "long break" into promodoro clock.
+
+**Thoughts:** Can't understand the API challenges - the more important thing should be learning how to set up the server.
+
+**Link to work:** 
+[Data Visualization with D3](https://learn.freecodecamp.org/data-visualization/data-visualization-with-d3), 
+[JSON APIs and AJAX](https://learn.freecodecamp.org/data-visualization/json-apis-and-ajax),
+[Pomodoro Clock](https://actcheng.github.io/pomodoro-clock/index.html)
 
 ### Day 047: February 19, 2019
 
