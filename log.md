@@ -2,6 +2,24 @@
 
 **Freecodecamp challenges completed:** 660 / 1409
 
+### Day 050: February 22, 2019
+
+**Today's Progress:** Pomodoro Clock: Mobile-view; Icon and time left in title; Show total time. (1 hr)
+
+**Thoughts:** Didn't know chrome's developer tool can toogle mobile view. Relatively easy tasks compared to yesterday.
+
+**Link to work:** 
+[Pomodoro Clock](https://actcheng.github.io/pomodoro-clock/index.html)
+
+### Day 049: February 21, 2019
+
+**Today's Progress:** Pomodoro Clock: over-time panel. (2.5 hrs) 
+
+**Thoughts:** Got stuck with the "counting" or not. Now I can feel the power of React!
+
+**Link to work:** 
+[Pomodoro Clock](https://actcheng.github.io/pomodoro-clock/index.html)
+
 ### Day 048: February 20, 2019
 
 **Today's Progress:** Finished challenges of Data Visualization Certification on #freecodecamp. 48 FCC challenges completed. Rewritten and added "long break" into promodoro clock.
