@@ -2,6 +2,15 @@
 
 **Freecodecamp challenges completed:** 660 / 1409
 
+### Day 051: February 23, 2019
+
+**Today's Progress:** Working on D3: bar chart on freeCodeCamp. Loaded json data, created rect components for each bar.
+
+**Thoughts:** Didn't know how to import json data. Also got stuck on the scaler... It may take more time than what I expected.
+
+**Link to work:** 
+[Bar chart](https://actcheng.github.io/fcc-data-visualization/bar-chart/index.html)
+
 ### Day 050: February 22, 2019
 
 **Today's Progress:** Pomodoro Clock: Mobile-view; Icon and time left in title; Show total time. (1 hr)
