@@ -2,6 +2,15 @@
 
 **Freecodecamp challenges completed:** 660 / 1409
 
+### Day 052: February 24, 2019
+
+**Today's Progress:** Working on D3: bar chart on freeCodeCamp. Created axes. 12/14 tests passed.
+
+**Thoughts:** Took more time than I expected.
+
+**Link to work:** 
+[Bar chart](https://actcheng.github.io/fcc-data-visualization/bar-chart/index.html)
+
 ### Day 051: February 23, 2019
 
 **Today's Progress:** Working on D3: bar chart on freeCodeCamp. Loaded json data, created rect components for each bar.
