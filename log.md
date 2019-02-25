@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-**Freecodecamp challenges completed:** 6601 / 1409
+**Freecodecamp challenges completed:** 661 / 1409
 
 ### Day 053: February 25, 2019
 
