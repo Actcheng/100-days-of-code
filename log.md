@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log
 
-**Freecodecamp challenges completed:** 660 / 1409
+**Freecodecamp challenges completed:** 6601 / 1409
+
+### Day 053: February 25, 2019
+
+**Today's Progress:** Working on D3: bar chart on freeCodeCamp. Created tooltip. Made the skeleton for the scatterplot (next project). Used the previous "personal page" as a template to create a simple website for a journal club.
+
+**Thoughts:** Got stuck about the property. Thanks to my previous project, I can crate a useful website really quickly!
+
+**Link to work:** 
+[Bar chart](https://actcheng.github.io/fcc-data-visualization/bar-chart/index.html)
+[Journal Club](https://actcheng.github.io/journal-club/index.html)
 
 ### Day 052: February 24, 2019
 
