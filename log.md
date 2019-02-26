@@ -1,6 +1,15 @@
 # 100 Days Of Code - Log
 
-**Freecodecamp challenges completed:** 661 / 1409
+**Freecodecamp challenges completed:** 662 / 1409
+
+### Day 054: February 26, 2019
+
+**Today's Progress:** Completed D3: scatterplot on freeCodeCamp. Learnt how to make a legend and deal with Date object. (2 hrs) 
+
+**Thoughts:** Feel better to deal with the d3 objects, though I decided to use html to create legend instead of D3.
+
+**Link to work:** 
+[Scatter plot](https://actcheng.github.io/fcc-data-visualization/scatter-plot/index.html)
 
 ### Day 053: February 25, 2019
 
