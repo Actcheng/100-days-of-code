@@ -2,6 +2,15 @@
 
 **Freecodecamp challenges completed:** 662 / 1409
 
+### Day 055: February 27, 2019
+
+**Today's Progress:** Working on D3:  heatmap on freeCodeCamp. 11/18 tests passed (1 hr) 
+
+**Thoughts:** A bit busy today. Just repeated what I knew from previous projects
+
+**Link to work:** 
+[Heat map](https://actcheng.github.io/fcc-data-visualization/heatmap/index.html)
+
 ### Day 054: February 26, 2019
 
 **Today's Progress:** Completed D3: scatterplot on freeCodeCamp. Learnt how to make a legend and deal with Date object. (2 hrs) 
