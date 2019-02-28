@@ -2,6 +2,15 @@
 
 **Freecodecamp challenges completed:** 662 / 1409
 
+### Day 057: February 28, 2019
+
+**Today's Progress:** Working on D3:  heatmap on freeCodeCamp. Added color scale. 16/18 tests passed (0.5 hr) 
+
+**Thoughts:** Stuck at legend.
+
+**Link to work:** 
+[Heat map](https://actcheng.github.io/fcc-data-visualization/heatmap/index.html)
+
 ### Day 055: February 27, 2019
 
 **Today's Progress:** Working on D3:  heatmap on freeCodeCamp. 11/18 tests passed (1 hr) 
