@@ -1,6 +1,15 @@
 # 100 Days Of Code - Log
 
-**Freecodecamp challenges completed:** 663 / 1409
+**Freecodecamp challenges completed:** 664 / 1409
+
+### Day 059: March 2, 2019
+
+**Today's Progress:** Completed D3:choropleth on freeCodeCamp. (1 hr)
+
+**Thoughts:** Learnt how to draw map using topojson. Don't know how to draw borders of states. But the other parts are basically similar to those in previous projects.
+
+**Link to work:** 
+[Choropleth map](https://actcheng.github.io/fcc-data-visualization/choropleth/index.html)
 
 ### Day 058: March 1, 2019
 
