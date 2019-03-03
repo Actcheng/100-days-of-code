@@ -2,7 +2,7 @@
 
 **Freecodecamp challenges completed:** 664 / 1409
 
-### Day 0659: March 3, 2019
+### Day 059: March 3, 2019
 
 **Today's Progress:** Working on D3: treemap on freeCodeCamp. Can draw the treemap but not yet added the texts (1 hr)
 
