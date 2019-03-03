@@ -2,7 +2,7 @@
 
 **Freecodecamp challenges completed:** 664 / 1409
 
-### Day 060: March 3, 2019
+### Day 0659: March 3, 2019
 
 **Today's Progress:** Working on D3: treemap on freeCodeCamp. Can draw the treemap but not yet added the texts (1 hr)
 
@@ -11,7 +11,7 @@
 **Link to work:** 
 [Treemap](https://actcheng.github.io/fcc-data-visualization/treemap/index.html)
 
-### Day 059: March 2, 2019
+### Day 058: March 2, 2019
 
 **Today's Progress:** Completed D3:choropleth on freeCodeCamp. (1 hr)
 
@@ -20,7 +20,7 @@
 **Link to work:** 
 [Choropleth map](https://actcheng.github.io/fcc-data-visualization/choropleth/index.html)
 
-### Day 058: March 1, 2019
+### Day 057: March 1, 2019
 
 **Today's Progress:** Completed D3:heatmap on freeCodeCamp. (1 hr)
 
@@ -30,7 +30,7 @@
 [Heat map](https://actcheng.github.io/fcc-data-visualization/heatmap/index.html)
 
 
-### Day 057: February 28, 2019
+### Day 056: February 28, 2019
 
 **Today's Progress:** Working on D3:  heatmap on freeCodeCamp. Added color scale. 16/18 tests passed (0.5 hr) 
 
