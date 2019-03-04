@@ -2,6 +2,15 @@
 
 **Freecodecamp challenges completed:** 664 / 1409
 
+### Day 060: March 4, 2019
+
+**Today's Progress:** Completed on D3: treemap on freeCodeCamp. (1.5 hr)
+
+**Thoughts:** Learnt to add texts and wrap texts (still bugs), draw legend (different from previous) and add tooltip.
+
+**Link to work:** 
+[Treemap](https://actcheng.github.io/fcc-data-visualization/treemap/index.html)
+
 ### Day 059: March 3, 2019
 
 **Today's Progress:** Working on D3: treemap on freeCodeCamp. Can draw the treemap but not yet added the texts (1 hr)
