@@ -6,7 +6,7 @@
 
 **Today's Progress:** Working on challenges in Apis And Microservices Certification on #freeCodeCamp. 20 challenges completed (1.5 hr)
 
-**Thoughts:** My first try on backends. Didn't know how to use Glitch, but turn out it is quite convenient
+**Thoughts:** My first try on backends. Didn't know how to use Glitch, but turn out it is quite convenient. Backends are much more difficult than front end.
 
 **Link to work:** 
 [Managing Packages with Npm](https://cookie-fountain.glitch.me/), 
