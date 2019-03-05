@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log
 
-**Freecodecamp challenges completed:** 665 / 1409
+**Freecodecamp challenges completed:** 685 / 1409
+
+### Day 061: March 5, 2019
+
+**Today's Progress:** Working on challenges in Apis And Microservices Certification on #freeCodeCamp. 20 challenges completed (1.5 hr)
+
+**Thoughts:** My first try on backends. Didn't know how to use Glitch, but turn out it is quite convenient
+
+**Link to work:** 
+[Managing Packages with Npm](https://cookie-fountain.glitch.me/), 
+[Basic Node and Express](https://third-cyclone.glitch.me/)
 
 ### Day 060: March 4, 2019
 
