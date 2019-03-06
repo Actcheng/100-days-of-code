@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log
 
-**Freecodecamp challenges completed:** 685 / 1409
+**Freecodecamp challenges completed:** 689 / 1409
+
+### Day 062: March 6, 2019
+
+**Today's Progress:** Finished Basic Node and Express Started MongoDB and Mongoose Challenges on #freeCodeCamp. Setup account on 4 challenges completed (1.5 hr)
+
+**Thoughts:** FCC suggested mLab but it is not open for new signups. Struggled for long on MongoDB Atlas. Wanted to rush one more challenges, but the explanations in the challenges are not sufficient.
+
+**Link to work:** 
+[Glitch for MongoDB and Mongoose Challenges](https://walnut-taurus.glitch.me/)
+[MongoDB Atlas](https://www.mongodb.com/cloud/atlas)
 
 ### Day 061: March 5, 2019
 
@@ -9,8 +19,8 @@
 **Thoughts:** My first try on backends. Didn't know how to use Glitch, but turn out it is quite convenient. Backends are much more difficult than front end.
 
 **Link to work:** 
-[Managing Packages with Npm](https://cookie-fountain.glitch.me/), 
-[Basic Node and Express](https://third-cyclone.glitch.me/)
+[Glitch for Managing Packages with Npm](https://cookie-fountain.glitch.me/), 
+[Glitch for Basic Node and Express](https://third-cyclone.glitch.me/)
 
 ### Day 060: March 4, 2019
 
