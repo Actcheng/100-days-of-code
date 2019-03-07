@@ -4,22 +4,22 @@
 
 ### Day 063: March 7, 2019
 
-**Today's Progress:** Finished MongoDB and Mongoose Challenges on #freeCodeCamp. (1 hr)
+**Today's Progress:** Finished MongoDB and Mongoose Challenges on #freeCodeCamp. 11 challenges completed (1 hr)
 
 **Thoughts:** Learnt how to create records, find, edit and delete records. Need more practice to know what's happening.
 
 **Link to work:** 
-[Glitch for MongoDB and Mongoose Challenges](https://walnut-taurus.glitch.me/)
+[Glitch for MongoDB and Mongoose Challenges](https://walnut-taurus.glitch.me/), 
 [MongoDB Atlas](https://www.mongodb.com/cloud/atlas)
 
 ### Day 062: March 6, 2019
 
-**Today's Progress:** Finished Basic Node and Express Started MongoDB and Mongoose Challenges on #freeCodeCamp. Setup account on 4 challenges completed (1.5 hr)
+**Today's Progress:** Finished Basic Node and Express Started MongoDB and Mongoose Challenges on #freeCodeCamp. Setup account on MongoDB Atlas. 4 challenges completed (1.5 hr)
 
 **Thoughts:** FCC suggested mLab but it is not open for new signups. Struggled for long on MongoDB Atlas. Wanted to rush one more challenges, but the explanations in the challenges are not sufficient.
 
 **Link to work:** 
-[Glitch for MongoDB and Mongoose Challenges](https://walnut-taurus.glitch.me/)
+[Glitch for MongoDB and Mongoose Challenges](https://walnut-taurus.glitch.me/), 
 [MongoDB Atlas](https://www.mongodb.com/cloud/atlas)
 
 ### Day 061: March 5, 2019
