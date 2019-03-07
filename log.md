@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log
 
-**Freecodecamp challenges completed:** 689 / 1409
+**Freecodecamp challenges completed:** 700 / 1409
+
+### Day 063: March 7, 2019
+
+**Today's Progress:** Finished MongoDB and Mongoose Challenges on #freeCodeCamp. (1 hr)
+
+**Thoughts:** Learnt how to create records, find, edit and delete records. Need more practice to know what's happening.
+
+**Link to work:** 
+[Glitch for MongoDB and Mongoose Challenges](https://walnut-taurus.glitch.me/)
+[MongoDB Atlas](https://www.mongodb.com/cloud/atlas)
 
 ### Day 062: March 6, 2019
 
