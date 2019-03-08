@@ -1,6 +1,15 @@
 # 100 Days Of Code - Log
 
-**Freecodecamp challenges completed:** 700 / 1409
+**Freecodecamp challenges completed:** 701 / 1409
+
+### Day 064: March 8, 2019
+
+**Today's Progress:** Completed the TimeStamp microservice project on freeCodeCamp. (1 hr)
+
+**Thoughts:** Actually an easy challenge. I should learn how to build a page out of glitch now!
+
+**Link to work:** 
+[Timestamp Microservice](https://linen-swim.glitch.me/)
 
 ### Day 063: March 7, 2019
 
