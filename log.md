@@ -1,15 +1,16 @@
 # 100 Days Of Code - Log
 
-**Freecodecamp challenges completed:** 701 / 1409
+**Freecodecamp challenges completed:** 702 / 1409
 
 ### Day 065: March 9, 2019
 
-**Today's Progress:** Completed the Request Header Parser project on @freeCodeCamp. (10 min)
+**Today's Progress:** Completed the Request Header Parser project on @freeCodeCamp. (10 min) Working on URL shortener. (1.5 hr)
 
-**Thoughts:**
+**Thoughts:** So frustrated to communicate with the database. Can't even save the records!
 
 **Link to work:** 
 [Request Header Parser](https://childish-crest.glitch.me/)
+[URL Shortener](https://jazzy-parrotfish.glitch.me/)
 
 ### Day 064: March 8, 2019
 
