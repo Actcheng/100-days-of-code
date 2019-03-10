@@ -2,6 +2,15 @@
 
 **Freecodecamp challenges completed:** 702 / 1409
 
+### Day 066: March 10, 2019
+
+**Today's Progress:** Working on URL shortener. (1.5 hr) Still cannot figure out how to return the fvalue of Model.find.
+
+**Thoughts:** Frustrated. But looking the other's posts, I realized I am not the only one who feel the challenge is difficult. Found many source code. I will spend time to read and understand how others made it work! 
+
+**Link to work:**
+[URL Shortener](https://jazzy-parrotfish.glitch.me/)
+
 ### Day 065: March 9, 2019
 
 **Today's Progress:** Completed the Request Header Parser project on @freeCodeCamp. (10 min) Working on URL shortener. (1.5 hr)
