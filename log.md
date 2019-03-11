@@ -2,6 +2,15 @@
 
 **Freecodecamp challenges completed:** 702 / 1409
 
+### Day 067: March 11, 2019
+
+**Today's Progress:** Installed @MongoDB on my computer, learnt to deploy a @heroku app
+
+**Thoughts:** Took a break from codes and spent time to set up new environments
+
+**Link to work:**
+[URL Shortener (Heroku)](https://url-shorten-ex.herokuapp.com/)
+
 ### Day 066: March 10, 2019
 
 **Today's Progress:** Working on URL shortener. (1.5 hr) Still cannot figure out how to return the fvalue of Model.find.
