@@ -11,6 +11,11 @@
 **Link to work:**
 [URL Shortener (Heroku)](https://url-shorten-ex.herokuapp.com/)
 
+**Useful resourses:**
+
+[Working with Environment Variables in Node.js](https://www.twilio.com/blog/working-with-environment-variables-in-node-js-html), 
+[Setup MongoDB with Mongoose in Express](https://www.robinwieruch.de/mongodb-express-setup-tutorial/)
+
 ### Day 066: March 10, 2019
 
 **Today's Progress:** Working on URL shortener. (1.5 hr) Still cannot figure out how to return the fvalue of Model.find.
