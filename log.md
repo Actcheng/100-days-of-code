@@ -2,11 +2,11 @@
 
 **Freecodecamp challenges completed:** 702 / 1409
 
-### Day 067: March 11, 2019
+### Day 068: March 12, 2019
 
-**Today's Progress:** Installed @MongoDB on my computer, learnt to deploy a @heroku app
+**Today's Progress:** Learnt to connect Mongodb from my local machine, and finally succeed in updating the database.
 
-**Thoughts:** Took a break from codes and spent time to set up new environments
+**Thoughts:** Seems better to learn from my own cmachine. Not really understand async.
 
 **Link to work:**
 [URL Shortener (Heroku)](https://url-shorten-ex.herokuapp.com/)
