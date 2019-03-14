@@ -1,6 +1,15 @@
 # 100 Days Of Code - Log
 
-**Freecodecamp challenges completed:** 702 / 1409
+**Freecodecamp challenges completed:** 703 / 1409
+
+### Day 069: March 14, 2019
+
+**Today's Progress:** Completed URL Shortener on @freeCodeCamp! Took some time to learn how to deploy the full node.js app on heroku, because of the differences to the local machine.
+
+**Thoughts:** Skipped one day of code yesterday, spent 1.5 hrs today. Things become much easy after I figure out how to read the database. Better learn about async though.
+
+**Link to work:**
+[URL Shortener (Heroku)](https://url-shorten-ex.herokuapp.com/)
 
 ### Day 068: March 12, 2019
 
