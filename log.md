@@ -2,6 +2,15 @@
 
 **Freecodecamp challenges completed:** 703 / 1409
 
+### Day 070: March 15, 2019
+
+**Today's Progress:** Working on Exercise tracker on @freeCodeCamp. Created the basic node.js settings, create new users and exercise models (Need to check the date tomorrow)
+
+**Thoughts:** Not sure how to manage step by step functions.
+
+**Link to work:**
+[Exercise tracker](https://exer-tracker.herokuapp.com/)
+
 ### Day 069: March 14, 2019
 
 **Today's Progress:** Completed URL Shortener on @freeCodeCamp! Took some time to learn how to deploy the full node.js app on heroku, because of the differences to the local machine.
