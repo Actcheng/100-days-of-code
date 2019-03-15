@@ -4,7 +4,7 @@
 
 ### Day 070: March 15, 2019
 
-**Today's Progress:** Working on Exercise tracker on @freeCodeCamp. Created the basic node.js settings, create new users and exercise models (Need to check the date tomorrow)
+**Today's Progress:** Working on Exercise tracker on @freeCodeCamp. Created the basic node.js settings, create new users and exercise models (Need to check the date tomorrow) (2 hr)
 
 **Thoughts:** Not sure how to manage step by step functions.
 
