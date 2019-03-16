@@ -2,6 +2,15 @@
 
 **Freecodecamp challenges completed:** 703 / 1409
 
+### Day 071: March 16, 2019
+
+**Today's Progress:** Working on Exercise tracker on @freeCodeCamp. Checked the date, learnt how to create subdocuments in mongoose, how to handle query in express. Successfully find the record from userId, not not yet filter the "from" and "to" (1.2 hr)
+
+**Thoughts:** At first I created two collections: user and exercise, and I could not add new exercises for the same userId. Eventually I knew that I should use an array for exercise in the User model instead!
+
+**Link to work:**
+[Exercise tracker](https://exer-tracker.herokuapp.com/)
+
 ### Day 070: March 15, 2019
 
 **Today's Progress:** Working on Exercise tracker on @freeCodeCamp. Created the basic node.js settings, create new users and exercise models (Need to check the date tomorrow) (2 hr)
