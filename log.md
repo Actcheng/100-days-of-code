@@ -2,6 +2,16 @@
 
 **Freecodecamp challenges completed:** 703 / 1409
 
+### Day 072: March 17, 2019
+
+**Today's Progress:** Completed on Exercise tracker on @freeCodeCamp. Created filters and maps for query results. (1 hr)
+
+**Thoughts:** My computer is very slow - need more than 1 minute to start npm and connect to mongodb! Got problem when deploying to heroku.
+
+**Link to work:**
+[Exercise tracker](https://exer-tracker.herokuapp.com/)
+
+
 ### Day 071: March 16, 2019
 
 **Today's Progress:** Working on Exercise tracker on @freeCodeCamp. Checked the date, learnt how to create subdocuments in mongoose, how to handle query in express. Successfully find the record from userId, not not yet filter the "from" and "to" (1.2 hr)
