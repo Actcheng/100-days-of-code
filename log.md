@@ -1,6 +1,24 @@
 # 100 Days Of Code - Log
 
-**Freecodecamp challenges completed:** 704 / 1409
+**Freecodecamp challenges completed:** 705 / 1409
+
+### Day 074: March 19, 2019
+
+**Today's Progress:** Completed file metadata project - and the fifth certification on @freeCodeCamp!
+
+**Thoughts:** Easier than what I expected. Not sure how to upload a file on a real server though...
+
+**Link to work:**
+[File-metadata](https://file-info-check.herokuapp.com/)
+
+### Day 073: March 18, 2019
+
+**Today's Progress:** Created the node js for file metadata project. (1 hr)
+
+**Thoughts:** Didn't work much
+
+**Link to work:**
+[File-metadata](https://file-info-check.herokuapp.com/)
 
 ### Day 072: March 17, 2019
 
