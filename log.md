@@ -1,15 +1,17 @@
 # 100 Days Of Code - Log
 
-**Freecodecamp challenges completed:** 705 / 1409
+**Freecodecamp challenges completed:** 720 / 1409
 
 ### Day 074: March 19, 2019
 
-**Today's Progress:** Completed file metadata project - and the fifth certification on @freeCodeCamp!
+**Today's Progress:** Completed file metadata project - and the fifth certification on @freeCodeCamp! Also completed Information Security with HelmetJS.
 
 **Thoughts:** Easier than what I expected. Not sure how to upload a file on a real server though...
 
 **Link to work:**
 [File-metadata](https://file-info-check.herokuapp.com/)
+[Applied InfoSec](https://misty-element.glitch.me/)
+[BCrypt](https://historical-binder.glitch.me/)
 
 ### Day 073: March 18, 2019
 
