@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log
 
-**Freecodecamp challenges completed:** 720 / 1409
+**Freecodecamp challenges completed:** 746 / 1409
+
+### Day 075: March 20, 2019
+
+**Today's Progress:** Completed Quality Assurance and Testing with Chai for Information Security And Quality Assurance Certification on @freeCodeCamp. 26 challenges completed.
+
+**Thoughts:** The exercises are good practice, but I am not sure how to use it in real webpages..
+
+**Link to work:**
+[Quality Assurance and Testing with Chai](https://wholesale-monday.glitch.me/)
+[Advanced Node and Express](https://glory-industry.glitch.me/)
 
 ### Day 074: March 19, 2019
 
