@@ -1,6 +1,15 @@
 # 100 Days Of Code - Log
 
-**Freecodecamp challenges completed:** 746 / 1409
+**Freecodecamp challenges completed:** 752 / 1409
+
+### Day 076: March 21, 2019
+
+**Today's Progres6s:** Worked on Advanced Node and Express for Information Security And Quality Assurance Certification on @freeCodeCamp. 8 challenges completed.
+
+**Thoughts:** Learning about authenciation. Got problem when connecting to database, luckily solved. 
+
+**Link to work:**
+[Advanced Node and Express](https://glory-industry.glitch.me/)
 
 ### Day 075: March 20, 2019
 
