@@ -1,10 +1,10 @@
 # 100 Days Of Code - Log
 
-**Freecodecamp challenges completed:** 757 / 1409
+**Freecodecamp challenges completed:** 759 / 1409
 
 ### Day 077: March 22, 2019
 
-**Today's Progres6s:** Worked on Advanced Node and Express for Information Security And Quality Assurance Certification on @freeCodeCamp. Created login system for users! 5 challenges completed.
+**Today's Progres6s:** Worked on Advanced Node and Express for Information Security And Quality Assurance Certification on @freeCodeCamp. Created login system for users! 7 challenges completed.
 
 **Thoughts:** I got the work done but could not pass the FCC tester...
 
