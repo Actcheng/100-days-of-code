@@ -1,19 +1,28 @@
 # 100 Days Of Code - Log
 
-**Freecodecamp challenges completed:** 759 / 1409
+**Freecodecamp challenges completed:** 766 / 1409
+
+### Day 078: March 23, 2019
+
+**Today's Progress:** Completed on Advanced Node and Express for Information Security And Quality Assurance Certification on @freeCodeCamp. Created a chatroom! 7 challenges completed.
+
+**Thoughts:** I got the work done but could not pass the FCC tester (again)... e.g. the sent object was not on the same line, missing library
+
+**Link to work:**
+[Advanced Node and Express: Chatroom](https://flannel-swordtail.glitch.me)
 
 ### Day 077: March 22, 2019
 
-**Today's Progres6s:** Worked on Advanced Node and Express for Information Security And Quality Assurance Certification on @freeCodeCamp. Created login system for users! 7 challenges completed.
+**Today's Progress:** Worked on Advanced Node and Express for Information Security And Quality Assurance Certification on @freeCodeCamp. Created login system for users! 7 challenges completed.
 
 **Thoughts:** I got the work done but could not pass the FCC tester...
 
 **Link to work:**
-[Advanced Node and Express](https://glory-industry.glitch.me/)
+[Advanced Node and Express: Login](https://glory-industry.glitch.me/)
 
 ### Day 076: March 21, 2019
 
-**Today's Progres6s:** Worked on Advanced Node and Express for Information Security And Quality Assurance Certification on @freeCodeCamp. 8 challenges completed.
+**Today's Progress:** Worked on Advanced Node and Express for Information Security And Quality Assurance Certification on @freeCodeCamp. 8 challenges completed.
 
 **Thoughts:** Learning about authenciation. Got problem when connecting to database, luckily solved. 
 
