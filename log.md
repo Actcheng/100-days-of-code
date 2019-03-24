@@ -2,6 +2,13 @@
 
 **Freecodecamp challenges completed:** 766 / 1409
 
+### Day 079: March 24, 2019
+
+**Today's Progress:** Working on Metric-Imperial Converter. Basically constructed the converter. Need to deal with safety issues and tests.
+
+**Thoughts:** Glitch got problem so I worked locally. The work I did today is more like a simple leetcode challenge.
+
+
 ### Day 078: March 23, 2019
 
 **Today's Progress:** Completed on Advanced Node and Express for Information Security And Quality Assurance Certification on @freeCodeCamp. Created a chatroom! 7 challenges completed.
