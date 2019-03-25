@@ -1,13 +1,21 @@
 # 100 Days Of Code - Log
 
-**Freecodecamp challenges completed:** 766 / 1409
+**Freecodecamp challenges completed:** 767 / 1409
+
+### Day 080: March 25, 2019
+
+**Today's Progress:** Completed on Metric-Imperial Converter. Created the tests and got all passed.
+
+**Thoughts:** First time creating my own tests using Chai. The protection part is easy - just use helmet! I am thinking of creating a project which combine all these FCC mini projects into a big project as a showcase...
+
+**Link to work:**
+[Metric-Imperial Converter](https://metric-imperial-convert.herokuapp.com/)
 
 ### Day 079: March 24, 2019
 
 **Today's Progress:** Working on Metric-Imperial Converter. Basically constructed the converter. Need to deal with safety issues and tests.
 
 **Thoughts:** Glitch got problem so I worked locally. The work I did today is more like a simple leetcode challenge.
-
 
 ### Day 078: March 23, 2019
 
