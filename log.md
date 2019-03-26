@@ -4,7 +4,7 @@
 
 ### Day 081: March 26, 2019
 
-**Today's Progress:** Working on issue tracker: completed post, delete and put. 
+**Today's Progress:** Working on issue tracker: completed post, delete and put. (2 hrs)
 
 **Thoughts:** Got stuck because of not understanding Mongo: 
 
