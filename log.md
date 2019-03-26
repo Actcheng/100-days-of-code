@@ -2,6 +2,16 @@
 
 **Freecodecamp challenges completed:** 767 / 1409
 
+### Day 081: March 26, 2019
+
+**Today's Progress:** Working on issue tracker: completed post, delete and put. 
+
+**Thoughts:** Got stuck because of not understanding Mongo: 
+
+1. Finding by ID - ObjectId(id) should be used instead of id
+1. The syntax of Mongodb and Mongo shell are different???
+1. The returned object of .find() is a mess. Use .find().toArray() instead
+
 ### Day 080: March 25, 2019
 
 **Today's Progress:** Completed on Metric-Imperial Converter. Created the tests and got all passed.
