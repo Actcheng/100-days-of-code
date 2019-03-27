@@ -1,6 +1,15 @@
 # 100 Days Of Code - Log
 
-**Freecodecamp challenges completed:** 767 / 1409
+**Freecodecamp challenges completed:** 768 / 1409
+
+### Day 082: March 27, 2019
+
+**Today's Progress:** Completed issue tracker: implemented "get", written functional tests, and deploy to Heroku. (1 hrs)
+
+**Thoughts:** Got stuck because of not understanding Mongo: 
+
+**Link to work:**
+[Issue tracker](https://track-issue.herokuapp.com/)
 
 ### Day 081: March 26, 2019
 
