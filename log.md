@@ -6,7 +6,7 @@
 
 **Today's Progress:** Completed issue tracker: implemented "get", written functional tests, and deploy to Heroku. (1 hrs)
 
-**Thoughts:** Got stuck because of not understanding Mongo: 
+**Thoughts:** The remaining work is simpler than what I expected. The product is wonderful, but I prefer to build my own interface - which may be more challenging!
 
 **Link to work:**
 [Issue tracker](https://track-issue.herokuapp.com/)
