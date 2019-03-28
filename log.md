@@ -2,6 +2,15 @@
 
 **Freecodecamp challenges completed:** 768 / 1409
 
+### Day 083: March 28, 2019
+
+**Today's Progress:** Completed personal library. (1.5 hrs) Watch a few YouTube videos on React, Angular and Vue.
+
+**Thoughts:** The skills for project are bascially the same with the previous project. Good to understand more about React!
+
+**Link to work:**
+[Personal library](https://fcc-library.herokuapp.com/)
+
 ### Day 082: March 27, 2019
 
 **Today's Progress:** Completed issue tracker: implemented "get", written functional tests, and deploy to Heroku. (1 hrs)
