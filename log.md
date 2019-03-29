@@ -2,6 +2,12 @@
 
 **Freecodecamp challenges completed:** 768 / 1409
 
+### Day 084: March 29, 2019
+
+**Today's Progress:** Working on stock checker(1 hrs) 
+
+**Thoughts:** Learn how to connect to external api using request. Getting some sense about promises.
+
 ### Day 083: March 28, 2019
 
 **Today's Progress:** Completed personal library. (1.5 hrs) Watch a few YouTube videos on React, Angular and Vue.
