@@ -2,6 +2,12 @@
 
 **Freecodecamp challenges completed:** 768 / 1409
 
+### Day 085: March 30, 2019
+
+**Today's Progress:** Working on stock checker(1 hrs) : Single stockData ok.
+
+**Thoughts:** Tried to get the promise work.
+
 ### Day 084: March 29, 2019
 
 **Today's Progress:** Working on stock checker(1 hrs) 
