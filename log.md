@@ -2,6 +2,18 @@
 
 **Freecodecamp challenges completed:** 768 / 1409
 
+### Day 087: April 1, 2019
+
+**Today's Progress:** Working on local weather app using Vanilla JS.
+
+**Thoughts:** Got to work on my Mac, so all my progress for the issue checker is not updated.
+
+### Day 086: March 31, 2019
+
+**Today's Progress:** Working on stock checker(1 hrs) . Able to send two parallel http requests using promises.
+
+**Thoughts:** Tried my best to work when my friends are playing, but something went wrong when connecting to the database. I think I did get the Promise.all worked though.
+
 ### Day 085: March 30, 2019
 
 **Today's Progress:** Working on stock checker(1 hrs) : Single stockData ok.
