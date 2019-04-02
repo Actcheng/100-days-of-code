@@ -2,6 +2,12 @@
 
 **Freecodecamp challenges completed:** 768 / 1409
 
+### Day 088: April 2, 2019
+
+**Today's Progress:** Working on local weather app using Vanilla JS, still fixing the css. (1hr)
+
+**Thoughts:** Have forgotten much about css... And need to fix the css first.
+
 ### Day 087: April 1, 2019
 
 **Today's Progress:** Working on local weather app using Vanilla JS.
