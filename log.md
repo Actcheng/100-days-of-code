@@ -2,6 +2,12 @@
 
 **Freecodecamp challenges completed:** 768 / 1409
 
+### Day 089: April 4, 2019
+
+**Today's Progress:** Working on local weather app using Vanilla JS. (1hr)
+
+**Thoughts:** Get the essential functions done, but need a better design
+
 ### Day 089: April 3, 2019
 
 **Today's Progress:** Working on stock checker(1 hrs). 
