@@ -1,6 +1,15 @@
 # 100 Days Of Code - Log
 
-**Freecodecamp challenges completed:** 768 / 1409
+**Freecodecamp challenges completed:** 769 / 1409
+
+### Day 090: April 5, 2019
+
+**Today's Progress:** Completed Stock Price Checker. (1 hrs) 
+
+**Thoughts:** To wrap up, I learnt about how to use promises for multiple requests in this project.
+
+**Link to work:**
+[Stock Price Checker](https://stock-checking.herokuapp.com/)
 
 ### Day 089: April 4, 2019
 
