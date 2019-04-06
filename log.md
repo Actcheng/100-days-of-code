@@ -2,6 +2,12 @@
 
 **Freecodecamp challenges completed:** 769 / 1409
 
+### Day 091: April 6, 2019
+
+**Today's Progress:** Working on Anonymous Message Board (1 hr). Finished POST and PUT. 
+
+**Thoughts:** Learnt how to create new ObjectId and modify an array elemet. Need to encrypt the "delete password".
+
 ### Day 090: April 5, 2019
 
 **Today's Progress:** Completed Stock Price Checker. (1 hrs) 
