@@ -2,6 +2,12 @@
 
 **Freecodecamp challenges completed:** 769 / 1409
 
+### Day 092: April 7, 2019
+
+**Today's Progress:** Working on Anonymous Message Board (2 hr). Finished DELETE and GET. 
+
+**Thoughts:** Learnt how to pull an Object from an Array, and how to sort and limit after find. Spent some time to show the message board (the missing '/' in '/b/test/'). Remaining work: encrypt "delete password, functional tests, Heroku app.
+
 ### Day 091: April 6, 2019
 
 **Today's Progress:** Working on Anonymous Message Board (1 hr). Finished POST and PUT. 
