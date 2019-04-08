@@ -1,6 +1,12 @@
 # 100 Days Of Code - Log
 
-**Freecodecamp challenges completed:** 769 / 1409
+**Freecodecamp challenges completed:** 770 / 1409
+
+### Day 093: April 8, 2019
+
+**Today's Progress:** Completed on Anonymous Message Board: Write for functional testing (1 hr). Attained the FreeCodeCamp Full Stack certification!
+
+**Thoughts:** Computer was slow so I haven't encrypt the password. Turn out I completed the 6 certifications within 100 days. But I feel that I have far too much to learn and work on - Plan to spend some time to merge some FCC projects into a single project for showcase!
 
 ### Day 092: April 7, 2019
 
