@@ -2,6 +2,15 @@
 
 **Freecodecamp challenges completed:** 770 / 1409
 
+### Day 094: April 9, 2019
+
+**Today's Progress:** Added encryption to the message board. Created a chrome extension using create-react-app. (1.5hr)
+
+**Thoughts:** Need to think about how to re-construct this project to a showcase project. How about making it a React project? The inline thing sucked.
+
+**References:** 
+[Building a Chrome Extension Using React](https://medium.com/@gilfink/building-a-chrome-extension-using-react-c5bfe45aaf36)
+
 ### Day 093: April 8, 2019
 
 **Today's Progress:** Completed on Anonymous Message Board: Write for functional testing (1 hr). Attained the FreeCodeCamp Full Stack certification!
