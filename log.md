@@ -1,6 +1,15 @@
 # 100 Days Of Code - Log
 
-**Freecodecamp challenges completed:** 770 / 1409
+**Freecodecamp challenges completed:** 772 / 1409
+
+### Day 095: April 10, 2019
+
+**Today's Progress:** Decided the name of my chrome extension: Just kitting. Made the general layout, and first time using a sass stylesheet in a React app, so the color theme can be changed easily. (1 hr)
+
+**Thoughts:** SASS is so powerful! Learnt this in the third certification but didn't have the change to apply it.
+
+**References:** 
+[Dealing with Color Schemes in Sass](https://www.sitepoint.com/dealing-color-schemes-sass/)
 
 ### Day 094: April 9, 2019
 
