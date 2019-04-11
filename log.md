@@ -2,6 +2,12 @@
 
 **Freecodecamp challenges completed:** 772 / 1409
 
+### Day 096: April 11, 2019
+
+**Today's Progress:** Re-organized the chrome extension: each class is stored in a separate .js file. Made the buttons work. To-do list is half-way done. (2 hr)
+
+**Thoughts:** The switching of different apps is so easy with React! But I am still feeling stuck on the to-do list - Don't want to follow the tutorial!
+
 ### Day 095: April 10, 2019
 
 **Today's Progress:** Decided the name of my chrome extension: Just kitting. Made the general layout, and first time using a sass stylesheet in a React app, so the color theme can be changed easily. (1 hr)
