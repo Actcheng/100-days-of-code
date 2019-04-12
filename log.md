@@ -2,6 +2,12 @@
 
 **Freecodecamp challenges completed:** 772 / 1409
 
+### Day 097: April 12, 2019
+
+**Today's Progress:** Making to-do list app for the chrome extension.  (1.5 hr)
+
+**Thoughts:** Went into a mess because I am not familiar to the React. How can I store the state of one component?
+
 ### Day 096: April 11, 2019
 
 **Today's Progress:** Re-organized the chrome extension: each class is stored in a separate .js file. Made the buttons work. To-do list is half-way done. (2 hr)
