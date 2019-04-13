@@ -2,6 +2,12 @@
 
 **Freecodecamp challenges completed:** 772 / 1409
 
+### Day 098: April 13, 2019
+
+**Today's Progress:** Installed redux in the current project.   (1 hr)
+
+**Thoughts:** Simpler than what I expected. But need some practice to better understand how to use Redux.
+
 ### Day 097: April 12, 2019
 
 **Today's Progress:** Making to-do list app for the chrome extension.  (1.5 hr)
