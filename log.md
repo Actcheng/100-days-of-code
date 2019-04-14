@@ -2,6 +2,12 @@
 
 **Freecodecamp challenges completed:** 772 / 1409
 
+### Day 099: April 14, 2019
+
+**Today's Progress:** Tried to organize the state of to-do list app using Redux (1 hr)
+
+**Thoughts:** Went into a mess. Need to learnt Redux again.
+
 ### Day 098: April 13, 2019
 
 **Today's Progress:** Installed redux in the current project.   (1 hr)
