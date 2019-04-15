@@ -2,6 +2,12 @@
 
 **Freecodecamp challenges completed:** 772 / 1409
 
+### Day 100: April 15, 2019
+
+**Today's Progress:** The todo-list app can be updated using Redux! Also made the toggle remove property for the items (1.5 hr)
+
+**Thoughts:** Suddently I could use Redux. Still need more understanding though. Oh yes, this is the 100th day - I have completed the 100 days of code challenge!! But my feeling is quite complicated - I want to start another round for ML, but there are several full stack projects that I want to work on...
+
 ### Day 099: April 14, 2019
 
 **Today's Progress:** Tried to organize the state of to-do list app using Redux (1 hr)
