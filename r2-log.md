@@ -4,6 +4,13 @@ The log of my #100DaysOfCode challenge. Started on [29 April, Monday, 2019].
 
 ## Log
 
+### R2D5: 4 May, 2019
+Watched videos of Week 3 and written notes: Speech recognition; Quiz
+(Skipped one day)
+
+### R2D4: 2 May, 2019
+Watched videos of Week 3 and written notes: Error analysis of beam search; Attention model
+
 ### R2D3: 1 May, 2019
 Watched videos of Week 3 and written notes: Basic model of seq-to-seq model, picking the most likely sentence, beam model.
 
