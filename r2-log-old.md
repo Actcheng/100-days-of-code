@@ -1,4 +1,4 @@
-# #100DaysOfCode Log - Round 2 - CT
+# #100DaysOfCode Log - Round 2 - CT (Failed)
 
 The log of my #100DaysOfCode challenge. Started on [29 April, Monday, 2019].
 
