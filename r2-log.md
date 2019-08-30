@@ -9,6 +9,9 @@ The log of my #100DaysOfCode challenge. Started on [26 Aug, Monday, 2019].
 2. Kaggle competition: https://www.kaggle.com/c/understanding_cloud_organization
 3. Personal website 
 
+### R2D5: 30 Aug, 2019
+Completed Lessons 3-4 of Advanced SQL on Kaggle. Started looking at the Kaggle competition, but I am not sure how to start with. Tempted to go back on courses and textbooks, but I know I have taken enough courses and should gain more practical experience by exploring on my own. (1 hr)
+
 ### R2D4: 29 Aug, 2019
 Completed Lessons 1-2 of Advanced SQL on Kaggle: JOIN and UNION, analytic functions (1 hr)
 
