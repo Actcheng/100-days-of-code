@@ -9,6 +9,15 @@ The log of my #100DaysOfCode challenge. Started on [26 Aug, Monday, 2019].
 2. Kaggle competition: https://www.kaggle.com/c/understanding_cloud_organization
 3. Personal website 
 
+### R2D6: 31 Aug, 2019
+I decided to put the cloud classification competition aside first, and try competitions without images first. Picked the "sale prediction" competition by the coursera course. 
+Did some data exploration on the competition. I feel that I have forgotten many pandas skills
+It is not trivial and involves time series. Titanic seems easier, but there are too many good kernels that I would like to learn later.
+I hope to submit some results soon, to have a try on how submissions actually are.
+It feels safe to follow the textbooks and courses, but I should be more used to explorations. (2 hr)
+
+Competition I joined: [Predict Future Sales](https://www.kaggle.com/c/competitive-data-science-predict-future-sales/overview
+
 ### R2D5: 30 Aug, 2019
 Completed Lessons 3-4 of Advanced SQL on Kaggle. Started looking at the Kaggle competition, but I am not sure how to start with. Tempted to go back on courses and textbooks, but I know I have taken enough courses and should gain more practical experience by exploring on my own. (1 hr)
 
