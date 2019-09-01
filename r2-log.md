@@ -9,6 +9,9 @@ The log of my #100DaysOfCode challenge. Started on [26 Aug, Monday, 2019].
 2. Kaggle competition: https://www.kaggle.com/c/understanding_cloud_organization
 3. Personal website 
 
+### R2D7: 1 Sep, 2019
+Didn't have the mood for data science so I did some questions on LeetCode. (1 hr)
+
 ### R2D6: 31 Aug, 2019
 I decided to put the cloud classification competition aside first, and try competitions without images first. Picked the "sale prediction" competition by the coursera course. 
 Did some data exploration on the competition. I feel that I have forgotten many pandas skills
