@@ -9,6 +9,9 @@ The log of my #100DaysOfCode challenge. Started on [26 Aug, Monday, 2019].
 2. Kaggle competition: https://www.kaggle.com/c/understanding_cloud_organization
 3. Personal website 
 
+### R2D7: 2 Sep, 2019
+Did some questions on LeetCode and learnt about implementing queue. I feel that I should spend time to study data structures and algorithm... (1.5 hr)
+
 ### R2D7: 1 Sep, 2019
 Didn't have the mood for data science so I did some questions on LeetCode. (1 hr)
 
