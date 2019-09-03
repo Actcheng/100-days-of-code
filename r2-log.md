@@ -9,6 +9,13 @@ The log of my #100DaysOfCode challenge. Started on [26 Aug, Monday, 2019].
 2. Kaggle competition: https://www.kaggle.com/c/understanding_cloud_organization
 3. Personal website 
 
+### R2D9: 3 Sep, 2019
+Finally finished reading one beginner notebbok kernel on Kaggle, which gave me some ideas about preprocessing. Also did some questions on Leetcode. I am so slow in coding, so I should do at least one question daily. (2 hr)
+
+References: 
+[Notebook](https://www.kaggle.com/minhtriet/a-beginner-guide-for-sale-data-prediction),
+[Kernel](https://www.kaggle.com/ctanna/a-beginner-guide-for-sale-data-prediction)
+
 ### R2D8: 2 Sep, 2019
 Did some questions on LeetCode and learnt about implementing queue. I feel that I should spend time to study data structures and algorithm... (1.5 hr)
 
