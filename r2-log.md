@@ -9,6 +9,11 @@ The log of my #100DaysOfCode challenge. Started on [26 Aug, Monday, 2019].
 2. Kaggle competition: https://www.kaggle.com/c/understanding_cloud_organization
 3. Personal website 
 
+### R2D10: 4 Sep, 2019
+Decided to spend time to learn basic data structures and algorithms, so I started about Binary Tree on Leetcode Explore. (2 hr)
+
+References: [Binary tree](https://leetcode.com/explore/learn/card/data-structure-tree/)
+
 ### R2D9: 3 Sep, 2019
 Finally finished reading one beginner notebbok kernel on Kaggle, which gave me some ideas about preprocessing. Also did some questions on Leetcode. I am so slow in coding, so I should do at least one question daily. (2 hr)
 
