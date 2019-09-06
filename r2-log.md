@@ -9,6 +9,14 @@ The log of my #100DaysOfCode challenge. Started on [26 Aug, Monday, 2019].
 2. Kaggle competition: https://www.kaggle.com/c/understanding_cloud_organization
 3. Personal website 
 
+### R2D12: 6 Sep, 2019
+Still on problems about binary tree. Not sure about how to implement and use DFS and BFS. Also looking at time series basics for a Kaggle competition. (3 hr)
+
+References: [Time series basics](https://www.kaggle.com/jagangupta/time-series-basics-exploring-traditional-ts)
+
+### R2D11: 5 Sep, 2019
+Worked on some problems about binary tree. It takes me much time to write clean code with recursion (1.5 hr)
+
 ### R2D10: 4 Sep, 2019
 Decided to spend time to learn basic data structures and algorithms, so I started about Binary Tree on Leetcode Explore. (2 hr)
 
