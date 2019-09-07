@@ -9,6 +9,10 @@ The log of my #100DaysOfCode challenge. Started on [26 Aug, Monday, 2019].
 2. Kaggle competition: https://www.kaggle.com/c/understanding_cloud_organization
 3. Personal website 
 
+### R2D13: 7 Sep, 2019
+Learning about time series analysis in Python. I think I should start to train my own model. 
+And daily Leetcode challenges! (2 hr)
+
 ### R2D12: 6 Sep, 2019
 Still on problems about binary tree. Not sure about how to implement and use DFS and BFS. Also looking at time series basics for a Kaggle competition. (3 hr)
 
