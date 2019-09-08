@@ -9,6 +9,9 @@ The log of my #100DaysOfCode challenge. Started on [26 Aug, Monday, 2019].
 2. Kaggle competition: https://www.kaggle.com/c/understanding_cloud_organization
 3. Personal website 
 
+### R2D14: 8 Sep, 2019
+First time participating in Leetcode contest and it is quite interesting. Also continued learning binary tree. (4 hr)
+
 ### R2D13: 7 Sep, 2019
 Learning about time series analysis in Python. I think I should start to train my own model. 
 And daily Leetcode challenges! (2 hr)
