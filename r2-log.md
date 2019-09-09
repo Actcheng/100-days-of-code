@@ -9,6 +9,15 @@ The log of my #100DaysOfCode challenge. Started on [26 Aug, Monday, 2019].
 2. Kaggle competition: https://www.kaggle.com/c/understanding_cloud_organization
 3. Personal website 
 
+### R2D15: 9 Sep, 2019
+Learning about binary search tree and DFS/BFS. Feeling more confident in writing recursive functions.
+Reading about Autoregressive models (AR/MA/ARMA/ARIMA)
+
+Reference: 
+[DFS and BFS](https://eddmann.com/posts/depth-first-search-and-breadth-first-search-in-python/)
+
+[Time Series (Advanced ML lecture)](http://people.cs.pitt.edu/~milos/courses/cs3750/lectures/class16.pdf)
+
 ### R2D14: 8 Sep, 2019
 First time participating in Leetcode contest and it is quite interesting. Also continued learning binary tree. (4 hr)
 
