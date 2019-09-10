@@ -9,6 +9,9 @@ The log of my #100DaysOfCode challenge. Started on [26 Aug, Monday, 2019].
 2. Kaggle competition: https://www.kaggle.com/c/understanding_cloud_organization
 3. Personal website 
 
+### R2D16: 10 Sep, 2019
+Did coding exercises and learnt about binary search tree. Leetcode is so time-killing, so should I move on to projects instead? Still I also learnt a lot from the exercies, so it is a hard decision... (2.5 hr)
+
 ### R2D15: 9 Sep, 2019
 Learning about binary search tree and DFS/BFS. Feeling more confident in writing recursive functions.
 Reading about Autoregressive models (AR/MA/ARMA/ARIMA)
