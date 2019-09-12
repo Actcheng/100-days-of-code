@@ -9,6 +9,10 @@ The log of my #100DaysOfCode challenge. Started on [26 Aug, Monday, 2019].
 2. Kaggle competition: https://www.kaggle.com/c/understanding_cloud_organization
 3. Personal website 
 
+### R2D18: 12 Sep, 2019
+Did some coding exercises and started building my personal website. Almost forgotten how to write CSS and JS. 
+Is it too much to use React to build a personal page? (1.5 hr)
+
 ### R2D17: 11 Sep, 2019
 Still on BST. Wanted to work a bit on Kaggle competitions but I am feeling headache... (1 hr)
 
