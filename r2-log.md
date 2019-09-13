@@ -5,9 +5,12 @@ The log of my #100DaysOfCode challenge. Started on [26 Aug, Monday, 2019].
 ## Log
 
 ### Plan 
-1. SQL Tutorial & BigQuery ML Workshop on Kaggle
+1. SQL Tutorial & BigQuery ML Workshop on Kaggle (OK)
 2. Kaggle competition: https://www.kaggle.com/c/understanding_cloud_organization
 3. Personal website 
+
+### R2D19: 13 Sep, 2019
+Coding exercises. Wondering how to start creating my own site, so I started with writing "user stories"  (1.5 hr)
 
 ### R2D18: 12 Sep, 2019
 Did some coding exercises and started building my personal website. Almost forgotten how to write CSS and JS. 
