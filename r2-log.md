@@ -9,6 +9,9 @@ The log of my #100DaysOfCode challenge. Started on [26 Aug, Monday, 2019].
 2. Kaggle competition: https://www.kaggle.com/c/understanding_cloud_organization
 3. Personal website 
 
+### R2D20: 14 Sep, 2019
+Coding excercies. Learning about BSt, N-ary trees and tries. (2 hr)
+
 ### R2D19: 13 Sep, 2019
 Coding exercises. Wondering how to start creating my own site, so I started with writing "user stories"  (1.5 hr)
 
