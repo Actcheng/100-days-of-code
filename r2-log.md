@@ -9,6 +9,9 @@ The log of my #100DaysOfCode challenge. Started on [26 Aug, Monday, 2019].
 2. Kaggle competition: https://www.kaggle.com/c/understanding_cloud_organization
 3. Personal website 
 
+### R2D22: 16 Sep, 2019
+Only have time for some random coding questions (1 hr)
+
 ### R2D21: 15 Sep, 2019
 Leetcode contest. Exercies on tries application. (2 hr)
 
