@@ -9,6 +9,12 @@ The log of my #100DaysOfCode challenge. Started on [26 Aug, Monday, 2019].
 2. Kaggle competition: https://www.kaggle.com/c/understanding_cloud_organization
 3. Personal website 
 
+### R2D26: 20 Sep, 2019
+Random coding questions. I think I should go back to some projects instead...Maybe just half hour for coding exercises per day (2 hr)
+
+### R2D25: 19 Sep, 2019
+Random coding questions (1.5 hr)
+
 ### R2D24: 18 Sep, 2019
 Random coding questions, 100 problems solved (1 hr)
 
