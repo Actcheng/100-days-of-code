@@ -7,7 +7,16 @@ The log of my #100DaysOfCode challenge. Started on [26 Aug, Monday, 2019].
 ### Plan 
 1. SQL Tutorial & BigQuery ML Workshop on Kaggle (OK)
 2. Kaggle competition: https://www.kaggle.com/c/understanding_cloud_organization
-3. Personal website 
+3. Personal website (Gatsby tutorials)
+4. CS50
+
+### R2D27: 21 Sep, 2019
+Learning about Hash Set and Hash Map. Tutorial on Gatsby.js
+120/1195 problems solved. (3 hr)
+
+References: 
+[Why you should use GatsbyJS to build static sites](https://www.freecodecamp.org/news/why-you-should-use-gatsbyjs-to-build-static-sites-4f90eb6d1a7b/),
+[The Great Gatsby Bootcamp (Video)](https://www.youtube.com/watch?v=8t0vNu2fCCM)
 
 ### R2D26: 20 Sep, 2019
 Random coding questions. I think I should go back to some projects instead...Maybe just half hour for coding exercises per day (2 hr)
