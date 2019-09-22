@@ -8,7 +8,13 @@ The log of my #100DaysOfCode challenge. Started on [26 Aug, Monday, 2019].
 1. SQL Tutorial & BigQuery ML Workshop on Kaggle (OK)
 2. Kaggle competition: https://www.kaggle.com/c/understanding_cloud_organization
 3. Personal website (Gatsby tutorials)
-4. CS50
+4. Data structures
+
+### R2D28: 22 Sep, 2019
+Leetcode contest; Gatsby tutorial: new static pages can be generated so easily! 
+Found a new tutorial video on Data Structures offered by freeCodecamp, quite long (8 hrs!) but seems to include all the essential!
+
+References: [Data Structures Easy to Advanced - Full Tutorial Course](https://youtu.be/RBSGKlAvoiM)
 
 ### R2D27: 21 Sep, 2019
 Learning about Hash Set and Hash Map. Tutorial on Gatsby.js
