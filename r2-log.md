@@ -10,6 +10,11 @@ The log of my #100DaysOfCode challenge. Started on [26 Aug, Monday, 2019].
 3. Personal website (Gatsby tutorials)
 4. Data structures
 
+### R2D29: 23 Sep, 2019
+Finished the Gatsby Bootcamp and deployed my first Gatsby site! Yet, I would like to find out the way to work with Github pages instead... 
+
+References: [Hello Gatsby!](https://elated-galileo-913023.netlify.com/blog/typhoon)
+
 ### R2D28: 22 Sep, 2019
 Leetcode contest; Gatsby tutorial: new static pages can be generated so easily! 
 Found a new tutorial video on Data Structures offered by freeCodecamp, quite long (8 hrs!) but seems to include all the essential!
