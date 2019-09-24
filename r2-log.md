@@ -10,6 +10,9 @@ The log of my #100DaysOfCode challenge. Started on [26 Aug, Monday, 2019].
 3. Personal website (Gatsby tutorials)
 4. Data structures
 
+### R2D30: 24 Sep, 2019
+Coding challenges.
+
 ### R2D29: 23 Sep, 2019
 Finished the Gatsby Bootcamp and deployed my first Gatsby site! Yet, I would like to find out the way to work with Github pages instead... 
 
