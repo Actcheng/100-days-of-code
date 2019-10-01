@@ -10,6 +10,12 @@ The log of my #100DaysOfCode challenge. Started on [26 Aug, Monday, 2019].
 3. Personal website (Gatsby tutorials)
 4. Data structures
 
+### R2D37: 1 Oct, 2019
+Coding challenges. (160/1205)
+
+### R2D36: 30 Sep, 2019
+Coding challenges on linked lists.
+
 ### R2D35: 29 Sep, 2019
 Coding challenges. Almost finished Array and Strings. Finally succeed in making a toggle menu with my Gatsby project using a checkbox trick. Will check out other ways in creating the toggle menu!
 
