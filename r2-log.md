@@ -10,6 +10,9 @@ The log of my #100DaysOfCode challenge. Started on [26 Aug, Monday, 2019].
 3. Personal website (Gatsby tutorials)
 4. Data structures
 
+### R2D38: 2 Oct, 2019
+Coding challenges. (165/1205) Self-introduction for my personal page.
+
 ### R2D37: 1 Oct, 2019
 Coding challenges. (160/1205)
 
