@@ -10,6 +10,9 @@ The log of my #100DaysOfCode challenge. Started on [26 Aug, Monday, 2019].
 3. Personal website 
 4. Data structures
 
+### R2D41: 5 Oct, 2019
+Coding challenges. (175/1212)  Started a tiny project to download AERONET tool using React page. 
+
 ### R2D40: 4 Oct, 2019
 Coding challenges. (172/1212) 
 
