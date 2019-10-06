@@ -10,6 +10,10 @@ The log of my #100DaysOfCode challenge. Started on [26 Aug, Monday, 2019].
 3. Personal website 
 4. Data structures
 
+### R2D42: 6 Oct, 2019
+Coding challengs (178/1212). Watched tutorials on React, ContextAPI and  Redux, but haven't worked on my project.
+35th streak on Leetcode and GitHub.
+
 ### R2D41: 5 Oct, 2019
 Coding challenges. (175/1212)  Started a tiny project to download AERONET tool using React page. 
 
