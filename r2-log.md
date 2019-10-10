@@ -10,6 +10,12 @@ The log of my #100DaysOfCode challenge. Started on [26 Aug, Monday, 2019].
 3. Personal website 
 4. Data structures
 
+### R2D46: 10 Oct, 2019
+First time using Context API to reorganize the App.
+
+### R2D45: 9 Oct, 2019
+Copy to ClipBoard, dropdown menu, link which change when input is changed. Need to add more options
+
 ### R2D44: 8 Oct, 2019
 Coding challenges. (182/1220)
 Aeronet download tool: Fields for site and date, updated on change
