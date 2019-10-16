@@ -9,6 +9,7 @@ The log of my #100DaysOfCode challenge. Started on [26 Aug, Monday, 2019].
 2. Kaggle competition: https://www.kaggle.com/c/understanding_cloud_organization
 3. Personal website 
 4. Data structures
+5. Compare different weather API
 
 ### R2D52: 16 Oct, 2019
 Coding challenges
