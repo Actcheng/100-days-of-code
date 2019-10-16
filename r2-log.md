@@ -10,6 +10,12 @@ The log of my #100DaysOfCode challenge. Started on [26 Aug, Monday, 2019].
 3. Personal website 
 4. Data structures
 
+### R2D52: 16 Oct, 2019
+Coding challenges
+
+### R2D51: 15 Oct, 2019
+Coding challenges
+
 ### R2D50: 14 Oct, 2019
 Coding challenges. AERONET tool: interactive table.
 
