@@ -11,6 +11,9 @@ The log of my #100DaysOfCode challenge. Started on [26 Aug, Monday, 2019].
 4. Data structures
 5. Compare different weather API
 
+### R2D53: 17 Oct, 2019
+Coding challenges. AERONET tool: more inputs, add react-datepicker.
+
 ### R2D52: 16 Oct, 2019
 Coding challenges
 
