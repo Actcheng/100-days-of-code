@@ -11,6 +11,12 @@ The log of my #100DaysOfCode challenge. Started on [26 Aug, Monday, 2019].
 4. Data structures
 5. Compare different weather API
 
+### R2D55: 19 Oct, 2019
+Coding challenge: 200 problems done! Adding autosuggestions to the aeronet mini app.
+
+### R2D54: 18 Oct, 2019
+Coding challenge. Stuck on counting number of Islands.
+
 ### R2D53: 17 Oct, 2019
 Coding challenges. AERONET tool: more inputs, add react-datepicker.
 
