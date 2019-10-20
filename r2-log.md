@@ -11,6 +11,9 @@ The log of my #100DaysOfCode challenge. Started on [26 Aug, Monday, 2019].
 4. Data structures
 5. Compare different weather API
 
+### R2D56: 20 Oct, 2019
+Coding challenge on stack (but looked at solution). Loaded json to file, improved auto-suggestion, changed scss to match the style. Need to deal with clicks.
+
 ### R2D55: 19 Oct, 2019
 Coding challenge: 200 problems done! Adding autosuggestions to the aeronet mini app.
 
