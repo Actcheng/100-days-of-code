@@ -11,6 +11,13 @@ The log of my #100DaysOfCode challenge. Started on [26 Aug, Monday, 2019].
 4. Data structures
 5. Compare different weather API
 
+
+### R2D58: 22 Oct, 2019
+Made a simple website to display figures of each AERONET site using Vanilla JS.
+Learnt about Boyer-Moore string search algorithm.
+
+Reference: [AERONET Site Explorer](https://actcheng.github.io/aeronet-site-explorer/)
+
 ### R2D57: 21 Oct, 2019
 Debugging auto-suggestion. Got problem in deploying gh-pages using the integrated terminal (solved).
 
