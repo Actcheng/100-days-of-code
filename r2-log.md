@@ -11,6 +11,11 @@ The log of my #100DaysOfCode challenge. Started on [26 Aug, Monday, 2019].
 4. Data structures
 5. Compare different weather API
 
+### R2D60: 24 Oct, 2019
+Started fastai. Hope to finish part I wthin this 100DaysOfCode challenge.
+
+### R2D59: 23 Oct, 2019
+Kaggle kernel about Segmentation models
 
 ### R2D58: 22 Oct, 2019
 Made a simple website to display figures of each AERONET site using Vanilla JS.
