@@ -11,6 +11,12 @@ The log of my #100DaysOfCode challenge. Started on [26 Aug, Monday, 2019].
 4. Data structures
 5. Compare different weather API
 
+### R2D62: 26 Oct, 2019
+Looking at images for training the classifier, but there seems to be many watermarks on it. Not sure if it will hurt the training or not.
+
+### R2D61: 25 Oct, 2019
+Coding Challenge.
+
 ### R2D60: 24 Oct, 2019
 Started fastai. Hope to finish part I wthin this 100DaysOfCode challenge.
 
