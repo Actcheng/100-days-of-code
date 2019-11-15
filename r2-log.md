@@ -11,6 +11,9 @@ The log of my #100DaysOfCode challenge. Started on [26 Aug, Monday, 2019].
 4. Data structures
 5. Compare different weather API
 
+### R2D63-80: 27 Oct-14 Nov, 2019
+Coding challenges.
+
 ### R2D62: 26 Oct, 2019
 Looking at images for training the classifier, but there seems to be many watermarks on it. Not sure if it will hurt the training or not.
 
