@@ -11,15 +11,17 @@ The log of my #100DaysOfCode challenge. Started on [26 Aug, Monday, 2019].
 4. Data structures
 5. Compare different weather API
 
-### R2D86: 26 Oct, 2019
+### R2D87: 21 Oct, 2019
+Created dataset for cumulus, and trained the model with error rate ~2%.
+
+### R2D86: 20 Oct, 2019
 Downloaded Cirrus pics using fastai + Collab. I think it may be fine to first explore using Collab.
 Need to clen up Google Drive though.
 
 Useful Tool: 
 [Google Image Search Picker](https://forums.fast.ai/t/tool-for-deleting-files-on-the-google-image-search-page-before-downloading/28900)
 
-
-### R2D85: 20 Nov, 2019
+### R2D85: 19 Nov, 2019
 Added photo to website + Responsive CSS.
 
 ### R2D81-84: 15-18 Nov, 2019
