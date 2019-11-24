@@ -11,10 +11,16 @@ The log of my #100DaysOfCode challenge. Started on [26 Aug, Monday, 2019].
 4. Data structures
 5. Compare different weather API
 
-### R2D87: 21 Oct, 2019
+### R2D89: 23 Nov 2019
+Coding Challenge.
+
+### R2D88: 22 Nov 2019
+Trained with error rate ~0.8% (1 wrong), tested with photos from my phone.
+
+### R2D87: 21 Nov, 2019
 Created dataset for cumulus, and trained the model with error rate ~2%.
 
-### R2D86: 20 Oct, 2019
+### R2D86: 20 Nov, 2019
 Downloaded Cirrus pics using fastai + Collab. I think it may be fine to first explore using Collab.
 Need to clen up Google Drive though.
 
