@@ -11,7 +11,7 @@ The log of my #100DaysOfCode challenge. Started on [26 Aug, Monday, 2019].
 4. Data structures
 5. Compare different weather API
 
-### R2D89: 23 Nov 2019
+### R2D89-90: 23-24 Nov 2019
 Coding Challenge.
 
 ### R2D88: 22 Nov 2019
