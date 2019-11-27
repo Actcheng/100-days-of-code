@@ -11,7 +11,12 @@ The log of my #100DaysOfCode challenge. Started on [26 Aug, Monday, 2019].
 4. Data structures
 5. Compare different weather API
 
-### R2D89-90: 23-24 Nov 2019
+### R2D92-93: 26-27 Nov 2019
+Flask tutorial in creating a task management app
+
+Resource: [Learn Flask for Python - Full Tutorial](https://youtu.be/Z1RJmh_OqeA)
+
+### R2D89-91: 23-25 Nov 2019
 Coding Challenge.
 
 ### R2D88: 22 Nov 2019
