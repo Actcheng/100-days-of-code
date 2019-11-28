@@ -11,6 +11,12 @@ The log of my #100DaysOfCode challenge. Started on [26 Aug, Monday, 2019].
 4. Data structures
 5. Compare different weather API
 
+### R2D95: 29 Nov 2019
+Collected images for cumulonimbus, but the model accuracy is low, probably due to the mis-classification of Cb as Cumulus.
+
+### R2D94: 28 Nov 2019
+Coding Challenge.
+
 ### R2D92-93: 26-27 Nov 2019
 Flask tutorial in creating a task management app
 
