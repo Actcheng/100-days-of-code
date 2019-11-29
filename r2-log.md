@@ -11,6 +11,9 @@ The log of my #100DaysOfCode challenge. Started on [26 Aug, Monday, 2019].
 4. Data structures
 5. Compare different weather API
 
+### R2D96: 30 Nov 2019
+Stuck at installing PyTorch without GPU...
+
 ### R2D95: 29 Nov 2019
 Collected images for cumulonimbus, but the model accuracy is low, probably due to the mis-classification of Cb as Cumulus.
 
