@@ -11,6 +11,12 @@ The log of my #100DaysOfCode challenge. Started on [26 Aug, Monday, 2019].
 4. Data structures
 5. Compare different weather API
 
+### R2D98: 2 Dec 2019
+Published my website! Not perfect, but need to wrap up my projects first.
+
+### R2D97: 1 Dec 2019
+Stuck at installing PyTorch without GPU...
+
 ### R2D96: 30 Nov 2019
 Stuck at installing PyTorch without GPU... [PyTorch](https://pytorch.org/get-started/locally/)
 
