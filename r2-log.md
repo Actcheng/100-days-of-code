@@ -11,6 +11,9 @@ The log of my #100DaysOfCode challenge. Started on [26 Aug, Monday, 2019].
 4. Data structures
 5. Compare different weather API
 
+### R2D104: 3-8 Dec, 2019
+Coding Challenge. (Leetcode + CodeSignal)
+
 ### R2D98: 2 Dec 2019
 Published my website! Not perfect, but need to wrap up my projects first.
 
